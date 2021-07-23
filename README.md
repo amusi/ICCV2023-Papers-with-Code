@@ -100,7 +100,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 **Crossover Learning for Fast Online Video Instance Segmentation**
 
-- Paper: None
+- Paper: https://arxiv.org/abs/2104.05970
 - Code: https://github.com/hustvl/CrossVIS
 
 <a name="Few-shot-Segmentation"></a>
