@@ -20,8 +20,10 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [Few-shot Segmentation](#Few-shot-Segmentation)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
+- [行人重识别(Person Re-identification)](#Re-ID)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [NeRF](#NeRF)
+- [其他(Others)](#Others)
 
 <a name="Backbone"></a>
 
@@ -102,6 +104,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2004.03791
 - Code: https://github.com/LongguangWang/ArbSR
 
+<a name="Re-ID"></a>
+
+# 行人重识别(Person Re-identification)
+
+**TransReID: Transformer-based Object Re-Identification**
+
+- Paper: https://arxiv.org/abs/2102.04378
+- Code: https://github.com/heshuting555/TransReID
+
 <a name="Anomaly-Detection"></a>
 
 # 异常检测(Anomaly Detection)
@@ -120,3 +131,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://shuaifengzhi.com/Semantic-NeRF/
 
 - Paper(Oral): https://arxiv.org/abs/2103.15875
+
+<a name="Others"></a>
+
+# 其他(Others)
+
+**Just Ask: Learning to Answer Questions from Millions of Narrated Videos**
+
+- Paper(Oral): https://arxiv.org/abs/2012.00451
+- Code: https://github.com/antoyang/just-ask
