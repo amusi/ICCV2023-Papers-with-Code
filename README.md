@@ -18,6 +18,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [2D目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
+- [Few-shot Segmentation](#Few-shot-Segmentation)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [NeRF](#NeRF)
@@ -73,10 +74,24 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 实例分割(Instance Segmentation)
 
+**Instances as Queries**
+
+- Paper: https://arxiv.org/abs/2105.01928
+- Code: https://github.com/hustvl/QueryInst
+
 **Crossover Learning for Fast Online Video Instance Segmentation**
 
 - Paper: None
 - Code: https://github.com/hustvl/CrossVIS
+
+<a name="Few-shot-Segmentation"></a>
+
+# Few-shot Segmentation
+
+**Mining Latent Classes for Few-shot Segmentation**
+
+- Paper(Oral): https://arxiv.org/abs/2103.15402
+- Code: https://github.com/LiheYoung/MiningFSS
 
 <a name="Super-Resolution"></a>
 
