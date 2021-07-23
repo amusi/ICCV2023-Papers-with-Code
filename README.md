@@ -15,6 +15,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Backbone](#Backbone)
 - [Transformer](#Transformer)
 - [GAN](#GAN)
+- [NAS](#NAS)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [2D目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
@@ -34,6 +35,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2102.12122
 - Code: https://github.com/whai362/PVT
 
+**AutoFormer: Searching Transformers for Visual Recognition**
+
+- Paper: https://arxiv.org/abs/2107.00651
+
+- Code: https://github.com/microsoft/AutoML
+
 <a name="Visual Transformer"></a>
 
 # Visual Transformer
@@ -51,6 +58,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2104.12476
 - Code: https://github.com/LynnHo/EigenGAN-Tensorflow
+
+<a name="NAS"></a>
+
+# NAS
+
+**AutoFormer: Searching Transformers for Visual Recognition**
+
+- Paper: https://arxiv.org/abs/2107.00651
+
+- Code: https://github.com/microsoft/AutoML
 
 <a name="Un/Self-Supervised"></a>
 
