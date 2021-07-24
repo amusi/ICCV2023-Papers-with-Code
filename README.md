@@ -41,9 +41,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Code: https://github.com/microsoft/AutoML
 
-<a name="Visual Transformer"></a>
+<a name="Transformer"></a>
 
 # Visual Transformer
+
+**An Empirical Study of Training Self-Supervised Vision Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2104.02057
+- MoCo v3 Code: None
 
 **Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions**
 
@@ -72,6 +77,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Un/Self-Supervised"></a>
 
 # 无监督/自监督(Un/Self-Supervised)
+
+**An Empirical Study of Training Self-Supervised Vision Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2104.02057
+- MoCo v3 Code: None
 
 **DetCo: Unsupervised Contrastive Learning for Object Detection**
 
