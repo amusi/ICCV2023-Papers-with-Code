@@ -96,8 +96,29 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **DetCo: Unsupervised Contrastive Learning for Object Detection**
 
 - Paper: https://arxiv.org/abs/2102.04803
-
 - Code: https://github.com/xieenze/DetCo
+
+**Detecting Invisible People**
+
+- Homepage: http://www.cs.cmu.edu/~tkhurana/invisible.htm
+- Code: https://arxiv.org/abs/2012.08419
+
+**Active Learning for Deep Object Detection via Probabilistic Modeling**
+
+- Paper: https://arxiv.org/abs/2103.16130
+- Code: None
+
+**Conditional Variational Capsule Network for Open Set Recognition**
+
+- Paper: https://arxiv.org/abs/2104.09159
+- Code: https://github.com/guglielmocamporese/cvaecaposr
+
+**MDETR : Modulated Detection for End-to-End Multi-Modal Understanding**
+
+- Homepage: https://ashkamath.github.io/mdetr_page/
+
+- Paper(Oral): https://arxiv.org/abs/2104.12763
+- Code: https://github.com/ashkamath/mdetr
 
 <a name="Instance-Segmentation"></a>
 
