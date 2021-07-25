@@ -183,8 +183,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **In-Place Scene Labelling and Understanding with Implicit Scene Representation**
 
 - Homepage: https://shuaifengzhi.com/Semantic-NeRF/
-
 - Paper(Oral): https://arxiv.org/abs/2103.15875
+
+**Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis**
+
+- Homepage: https://ajayj.com/dietnerf
+- Paper(DietNeRF): https://arxiv.org/abs/2104.00677
 
 <a name="Others"></a>
 
