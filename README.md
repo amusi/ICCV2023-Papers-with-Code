@@ -174,6 +174,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # NeRF
 
+**KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs**
+
+- Paper: https://arxiv.org/abs/2103.13744
+
+- Code: https://github.com/creiser/kilonerf
+
 **In-Place Scene Labelling and Understanding with Implicit Scene Representation**
 
 - Homepage: https://shuaifengzhi.com/Semantic-NeRF/
