@@ -20,6 +20,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [2D目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [Few-shot Segmentation](#Few-shot-Segmentation)
+- [3D Point Cloud](#3D Point Cloud)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
@@ -148,6 +149,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2103.15402
 - Code: https://github.com/LiheYoung/MiningFSS
 
+# 3D Point Cloud
+
+**Unsupervised Point Cloud Pre-Training via View-Point Occlusion, Completion**
+
+- Homepage: https://hansen7.github.io/OcCo/
+- Paper: https://arxiv.org/abs/2010.01089 
+- Code: https://github.com/hansen7/OcCo
+
 <a name="Super-Resolution"></a>
 
 # 超分辨率(Super-Resolution)
@@ -209,6 +218,17 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Hand-Object Contact Consistency Reasoning for Human Grasps Generation**
+
+- Homepage: https://hwjiang1510.github.io/GraspTTA/
+- Paper(Oral): https://arxiv.org/abs/2104.03304
+- Code: None
+
+**Equivariant Imaging: Learning Beyond the Range Space**
+
+- Paper(Oral): https://arxiv.org/abs/2103.14756
+- Code: https://github.com/edongdongchen/EI
 
 **Just Ask: Learning to Answer Questions from Millions of Narrated Videos**
 
