@@ -66,6 +66,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # GAN
 
+**GNeRF: GAN-based Neural Radiance Field without Posed Camera**
+
+- Paper(Oral): https://arxiv.org/abs/2103.15606
+
+- Code: https://github.com/MQ66/gnerf
+
 **EigenGAN: Layer-Wise Eigen-Learning for GANs**
 
 - Paper: https://arxiv.org/abs/2104.12476
@@ -210,6 +216,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="NeRF"></a>
 
 # NeRF
+
+**GNeRF: GAN-based Neural Radiance Field without Posed Camera**
+
+- Paper(Oral): https://arxiv.org/abs/2103.15606
+
+- Code: https://github.com/MQ66/gnerf
 
 **KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs**
 
