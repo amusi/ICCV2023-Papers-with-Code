@@ -20,7 +20,8 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [2D目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [Few-shot Segmentation](#Few-shot-Segmentation)
-- [3D Point Cloud](#3D Point Cloud)
+- [3D Point Cloud](#3D-Point-Cloud)
+- [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
@@ -149,6 +150,8 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2103.15402
 - Code: https://github.com/LiheYoung/MiningFSS
 
+<a name="3D-Point-Cloud"></a>
+
 # 3D Point Cloud
 
 **Unsupervised Point Cloud Pre-Training via View-Point Occlusion, Completion**
@@ -156,6 +159,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://hansen7.github.io/OcCo/
 - Paper: https://arxiv.org/abs/2010.01089 
 - Code: https://github.com/hansen7/OcCo
+
+<a name="Point-Cloud-Denoising"></a>
+
+## Point Cloud Denoising(点云去噪)
+
+**Score-Based Point Cloud Denoising**
+
+- Paper: https://arxiv.org/abs/2107.10981
+- Code: None
 
 <a name="Super-Resolution"></a>
 
