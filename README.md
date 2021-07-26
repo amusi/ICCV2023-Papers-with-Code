@@ -22,6 +22,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Few-shot Segmentation](#Few-shot-Segmentation)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [行人重识别(Person Re-identification)](#Re-ID)
+- [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [NeRF](#NeRF)
 - [其他(Others)](#Others)
@@ -160,6 +161,17 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2102.04378
 - Code: https://github.com/heshuting555/TransReID
+
+<a name="Human-Pose-Estimation"></a>
+
+# 2D/3D人体姿态估计(2D/3D Human Pose Estimation)
+
+## 2D 人体姿态估计
+
+**Human Pose Regression with Residual Log-likelihood Estimation**
+
+- Paper(Oral): https://arxiv.org/abs/2107.11291
+- Code(RLE): https://github.com/Jeff-sjtu/res-loglikelihood-regression
 
 <a name="Anomaly-Detection"></a>
 
