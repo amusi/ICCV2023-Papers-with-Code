@@ -39,8 +39,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **AutoFormer: Searching Transformers for Visual Recognition**
 
 - Paper: https://arxiv.org/abs/2107.00651
-
 - Code: https://github.com/microsoft/AutoML
+
+**Bias Loss for Mobile Neural Networks**
+
+- Paper: https://arxiv.org/abs/2107.11170
+- Code: None
 
 <a name="Transformer"></a>
 
