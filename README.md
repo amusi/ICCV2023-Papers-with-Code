@@ -133,6 +133,18 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2104.12763
 - Code: https://github.com/ashkamath/mdetr
 
+<a name="Semantic-Segmentation"></a>
+
+## 语义分割(Semantic Segmentation)
+
+## 半监督语义分割(Semi-supervised Semantic Segmentation)
+
+**Re-distributing Biased Pseudo Labels for Semi-supervised Semantic Segmentation: A Baseline Investigation**
+
+- Paper(Oral): https://arxiv.org/abs/2107.11279
+
+- Code: https://github.com/CVMI-Lab/DARS
+
 <a name="Instance-Segmentation"></a>
 
 # 实例分割(Instance Segmentation)
