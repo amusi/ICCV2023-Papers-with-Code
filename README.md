@@ -26,6 +26,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Few-shot Segmentation](#Few-shot-Segmentation)
 - [目标跟踪(Object Tracking)](#Object-Tracking)
 - [3D Point Cloud](#3D-Point-Cloud)
+- [Point Cloud Denoising(点云语义分割)](#Point-Cloud-Semantic-Segmentation)
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
