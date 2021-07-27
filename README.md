@@ -25,6 +25,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Few-shot Segmentation](#Few-shot-Segmentation)
 - [3D Point Cloud](#3D-Point-Cloud)
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
+- [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
@@ -243,6 +244,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.10981
 - Code: None
+
+<a name="Point-Cloud-Registration"></a>
+
+## Point Cloud Registration(点云配准)
+
+**HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration**
+
+- Homepage: https://ispc-group.github.io/hregnet
+- Paper: https://arxiv.org/abs/2107.11992
+- Code: https://github.com/ispc-lab/HRegNet
 
 <a name="Super-Resolution"></a>
 
