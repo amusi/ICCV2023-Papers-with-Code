@@ -18,17 +18,21 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [NAS](#NAS)
 - [NeRF](#NeRF)
 - [Loss](#Loss)
+- [长尾(Long-tailed)](#Long-tailed)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [2D目标检测(Object Detection)](#Object-Detection)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [Few-shot Segmentation](#Few-shot-Segmentation)
+- [目标跟踪(Object Tracking)](#Object-Tracking)
 - [3D Point Cloud](#3D-Point-Cloud)
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
+- [行为识别(Action Recognition)](#Action-Recognition)
+- [文本识别(Text Recognition)](#Text-Recognition)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [其他(Others)](#Others)
@@ -136,6 +140,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.11170
 - Code: None
 
+<a name="Long-tailed"></a>
+
+# 长尾(Long-tailed)
+
+- Paper: https://arxiv.org/abs/2107.12028
+- Code: https://github.com/jiequancui/Parametric-Contrastive-Learning
+
 <a name="Un/Self-Supervised"></a>
 
 # 无监督/自监督(Un/Self-Supervised)
@@ -192,6 +203,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 ## 半监督语义分割(Semi-supervised Semantic Segmentation)
 
+**Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2107.11787
+- Code: None
+
 **Re-distributing Biased Pseudo Labels for Semi-supervised Semantic Segmentation: A Baseline Investigation**
 
 - Paper(Oral): https://arxiv.org/abs/2107.11279
@@ -226,6 +242,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2103.15402
 - Code: https://github.com/LiheYoung/MiningFSS
 
+<a name="Object Tracking"></a>
+
+# 目标跟踪(Object Tracking)
+
+**Learning to Adversarially Blur Visual Object Tracking**
+
+- Paper: https://arxiv.org/abs/2107.12085
+- Code: https://github.com/tsingqguo/ABA
+
 <a name="3D-Point-Cloud"></a>
 
 # 3D Point Cloud
@@ -235,6 +260,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://hansen7.github.io/OcCo/
 - Paper: https://arxiv.org/abs/2010.01089 
 - Code: https://github.com/hansen7/OcCo
+
+<a name="Point-Cloud-Semantic-Segmentation"></a>
+
+## Point Cloud Semantic Segmentation(点云语义分割)
+
+**ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2107.11769
+- Code: None
 
 <a name="Point-Cloud-Denoising"></a>
 
@@ -283,6 +317,24 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper(Oral): https://arxiv.org/abs/2107.11291
 - Code(RLE): https://github.com/Jeff-sjtu/res-loglikelihood-regression
+
+<a name="Action-Recognition"></a>
+
+# 行为识别(Action Recognition)
+
+**MGSampler: An Explainable Sampling Strategy for Video Action Recognition**
+
+- Paper: https://arxiv.org/abs/2104.09952
+- Code: None
+
+<a name="Text-Recognition"></a>
+
+# 文本识别(Text Recognition)
+
+**Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition**
+
+- Paper: https://arxiv.org/abs/2107.12090
+- Code: None
 
 <a name="Anomaly-Detection"></a>
 
