@@ -16,8 +16,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Transformer](#Transformer)
 - [GAN](#GAN)
 - [NAS](#NAS)
+- [NeRF](#NeRF)
+- [Loss](#Loss)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [2D目标检测(Object Detection)](#Object-Detection)
+- [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [Few-shot Segmentation](#Few-shot-Segmentation)
 - [3D Point Cloud](#3D-Point-Cloud)
@@ -26,7 +29,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
-- [NeRF](#NeRF)
+- [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [其他(Others)](#Others)
 
 <a name="Backbone"></a>
@@ -62,6 +65,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2102.12122
 - Code: https://github.com/whai362/PVT
 
+**Spatial-Temporal Transformer for Dynamic Scene Graph Generation**
+
+- Paper: https://arxiv.org/abs/2107.12309
+- Code: None
+
 <a name="GAN"></a>
 
 # GAN
@@ -86,6 +94,46 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.00651
 
 - Code: https://github.com/microsoft/AutoML
+
+<a name="NeRF"></a>
+
+# NeRF
+
+**GNeRF: GAN-based Neural Radiance Field without Posed Camera**
+
+- Paper(Oral): https://arxiv.org/abs/2103.15606
+
+- Code: https://github.com/MQ66/gnerf
+
+**KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs**
+
+- Paper: https://arxiv.org/abs/2103.13744
+
+- Code: https://github.com/creiser/kilonerf
+
+**In-Place Scene Labelling and Understanding with Implicit Scene Representation**
+
+- Homepage: https://shuaifengzhi.com/Semantic-NeRF/
+- Paper(Oral): https://arxiv.org/abs/2103.15875
+
+**Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis**
+
+- Homepage: https://ajayj.com/dietnerf
+- Paper(DietNeRF): https://arxiv.org/abs/2104.00677
+
+<a name="Loss"></a>
+
+# Loss
+
+**Rank & Sort Loss for Object Detection and Instance Segmentation**
+
+- Paper(Oral): https://arxiv.org/abs/2107.11669
+- Code: https://github.com/kemaloksuz/RankSortLoss
+
+**Bias Loss for Mobile Neural Networks**
+
+- Paper: https://arxiv.org/abs/2107.11170
+- Code: None
 
 <a name="Un/Self-Supervised"></a>
 
@@ -129,9 +177,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **MDETR : Modulated Detection for End-to-End Multi-Modal Understanding**
 
 - Homepage: https://ashkamath.github.io/mdetr_page/
-
 - Paper(Oral): https://arxiv.org/abs/2104.12763
 - Code: https://github.com/ashkamath/mdetr
+
+**Rank & Sort Loss for Object Detection and Instance Segmentation**
+
+- Paper(Oral): https://arxiv.org/abs/2107.11669
+- Code: https://github.com/kemaloksuz/RankSortLoss
 
 <a name="Semantic-Segmentation"></a>
 
@@ -158,6 +210,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2104.05970
 - Code: https://github.com/hustvl/CrossVIS
+
+**Rank & Sort Loss for Object Detection and Instance Segmentation**
+
+- Paper(Oral): https://arxiv.org/abs/2107.11669
+- Code: https://github.com/kemaloksuz/RankSortLoss
 
 <a name="Few-shot-Segmentation"></a>
 
@@ -225,31 +282,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2101.10030
 - Code: https://github.com/tianyu0207/RTFM
 
-<a name="NeRF"></a>
+<a name="Scene-Graph-Generation"></a>
 
-# NeRF
+# 场景图生成(Scene Graph Generation)
 
-**GNeRF: GAN-based Neural Radiance Field without Posed Camera**
+**Spatial-Temporal Transformer for Dynamic Scene Graph Generation**
 
-- Paper(Oral): https://arxiv.org/abs/2103.15606
-
-- Code: https://github.com/MQ66/gnerf
-
-**KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs**
-
-- Paper: https://arxiv.org/abs/2103.13744
-
-- Code: https://github.com/creiser/kilonerf
-
-**In-Place Scene Labelling and Understanding with Implicit Scene Representation**
-
-- Homepage: https://shuaifengzhi.com/Semantic-NeRF/
-- Paper(Oral): https://arxiv.org/abs/2103.15875
-
-**Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis**
-
-- Homepage: https://ajayj.com/dietnerf
-- Paper(DietNeRF): https://arxiv.org/abs/2104.00677
+- Paper: https://arxiv.org/abs/2107.12309
+- Code: None
 
 <a name="Others"></a>
 
