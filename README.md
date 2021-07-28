@@ -33,6 +33,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [行为识别(Action Recognition)](#Action-Recognition)
+- [文本检测(Text Detection)](#Text-Detection)
 - [文本识别(Text Recognition)](#Text-Recognition)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
@@ -336,6 +337,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.12090
 - Code: None
+
+<a name="Text-Detection"></a>
+
+# 文本检测(Text Detection)
+
+**Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection**
+
+- Paper: https://arxiv.org/abs/2107.12664
+- Code: https://github.com/GXYM/TextBPN
 
 <a name="Anomaly-Detection"></a>
 
