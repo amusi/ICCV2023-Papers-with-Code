@@ -36,6 +36,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [文本检测(Text Detection)](#Text-Detection)
 - [文本识别(Text Recognition)](#Text-Recognition)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
+- [人群计数(Crowd Counting)](#Crowd-Counting)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [其他(Others)](#Others)
@@ -358,6 +359,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.12429
 - Code: None
+
+<a name="Crowd-Counting"></a>
+
+# 人群计数(Crowd Counting)
+
+**Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework**
+
+- Paper(Oral): https://arxiv.org/abs/2107.12746
+- Code(P2PNet): https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet
 
 <a name="Anomaly-Detection"></a>
 
