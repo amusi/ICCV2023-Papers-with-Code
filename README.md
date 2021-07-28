@@ -35,6 +35,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [行为识别(Action Recognition)](#Action-Recognition)
 - [文本检测(Text Detection)](#Text-Detection)
 - [文本识别(Text Recognition)](#Text-Recognition)
+- [深度估计(Depth Estimation)](#Depth-Estimation)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [其他(Others)](#Others)
@@ -329,6 +330,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2104.09952
 - Code: None
 
+<a name="Text-Detection"></a>
+
+# 文本检测(Text Detection)
+
+**Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection**
+
+- Paper: https://arxiv.org/abs/2107.12664
+- Code: https://github.com/GXYM/TextBPN
+
 <a name="Text-Recognition"></a>
 
 # 文本识别(Text Recognition)
@@ -338,14 +348,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12090
 - Code: None
 
-<a name="Text-Detection"></a>
+<a name="Depth-Estimation"></a>
 
-# 文本检测(Text Detection)
+# 深度估计(Depth Estimation)
 
-**Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection**
+## 单目深度估计
 
-- Paper: https://arxiv.org/abs/2107.12664
-- Code: https://github.com/GXYM/TextBPN
+**MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**
+
+- Paper: https://arxiv.org/abs/2107.12429
+- Code: None
 
 <a name="Anomaly-Detection"></a>
 
