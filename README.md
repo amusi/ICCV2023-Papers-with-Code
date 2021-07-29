@@ -201,6 +201,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2107.11669
 - Code: https://github.com/kemaloksuz/RankSortLoss
 
+**SimROD: A Simple Adaptation Method for Robust Object Detection**
+
+- Paper(Oral): https://arxiv.org/abs/2107.13389
+
+- Code: None
+
 <a name="Semantic-Segmentation"></a>
 
 ## 语义分割(Semantic Segmentation)
