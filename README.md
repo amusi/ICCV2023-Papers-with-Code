@@ -32,6 +32,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
+- [3D人头重建(3D Head Reconstruction)](#3D-Head-Reconstruction)
 - [行为识别(Action Recognition)](#Action-Recognition)
 - [文本检测(Text Detection)](#Text-Detection)
 - [文本识别(Text Recognition)](#Text-Recognition)
@@ -39,6 +40,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [人群计数(Crowd Counting)](#Crowd-Counting)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
+- [数据集(Datasets)](#Datasets)
 - [其他(Others)](#Others)
 
 <a name="Backbone"></a>
@@ -341,6 +343,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2107.11291
 - Code(RLE): https://github.com/Jeff-sjtu/res-loglikelihood-regression
 
+<a name="3D-Head-Reconstruction"></a>
+
+# 3D人头重建(3D Head Reconstruction)
+
+**H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction**
+
+- Homepage: https://crisalixsa.github.io/h3d-net/
+
+- Paper: https://arxiv.org/abs/2107.12512
+
 <a name="Action-Recognition"></a>
 
 # 行为识别(Action Recognition)
@@ -405,6 +417,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.12309
 - Code: None
+
+<a name="Datasets"></a>
+
+# 数据集(Datasets)
+
+**H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction**
+
+- Homepage: https://crisalixsa.github.io/h3d-net/
+
+- Paper: https://arxiv.org/abs/2107.12512
 
 <a name="Others"></a>
 
