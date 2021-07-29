@@ -83,6 +83,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # GAN
 
+**Labels4Free: Unsupervised Segmentation using StyleGAN**
+
+- Homepage: https://rameenabdal.github.io/Labels4Free/
+- Paper: https://arxiv.org/abs/2103.14968
+
 **GNeRF: GAN-based Neural Radiance Field without Posed Camera**
 
 - Paper(Oral): https://arxiv.org/abs/2103.15606
@@ -221,8 +226,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Re-distributing Biased Pseudo Labels for Semi-supervised Semantic Segmentation: A Baseline Investigation**
 
 - Paper(Oral): https://arxiv.org/abs/2107.11279
-
 - Code: https://github.com/CVMI-Lab/DARS
+
+## 无监督分割(Unsupervised Segmentation)
+
+**Labels4Free: Unsupervised Segmentation using StyleGAN**
+
+- Homepage: https://rameenabdal.github.io/Labels4Free/
+- Paper: https://arxiv.org/abs/2103.14968
 
 <a name="Instance-Segmentation"></a>
 
