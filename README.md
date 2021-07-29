@@ -153,6 +153,8 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 长尾(Long-tailed)
 
+**Parametric Contrastive Learning**
+
 - Paper: https://arxiv.org/abs/2107.12028
 - Code: https://github.com/jiequancui/Parametric-Contrastive-Learning
 
