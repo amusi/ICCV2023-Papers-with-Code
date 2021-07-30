@@ -18,6 +18,8 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [NAS](#NAS)
 - [NeRF](#NeRF)
 - [Loss](#Loss)
+- [Zero-Shot Learning](#Zero-Shot-Learning)
+- [Few-Shot Learning](#Few-Shot-Learning)
 - [长尾(Long-tailed)](#Long-tailed)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [2D目标检测(Object Detection)](#Object-Detection)
@@ -36,8 +38,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [行为识别(Action Recognition)](#Action-Recognition)
 - [文本检测(Text Detection)](#Text-Detection)
 - [文本识别(Text Recognition)](#Text-Recognition)
+- [对抗攻击(Adversarial Attack)](#Adversarial-Attack)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
+- [视线估计(Gaze Estimation)](#Gaze-Estimation)
 - [人群计数(Crowd Counting)](#Crowd-Counting)
+- [轨迹预测(Trajectory Prediction)](#Trajectory-Prediction)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [Video Rescaling](#Video-Rescaling)
@@ -83,6 +88,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12309
 - Code: None
 
+**Rethinking and Improving Relative Position Encoding for Vision Transformer**
+
+- Paper: https://arxiv.org/abs/2107.14222
+- Code: None
+
 <a name="GAN"></a>
 
 # GAN
@@ -102,6 +112,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2104.12476
 - Code: https://github.com/LynnHo/EigenGAN-Tensorflow
+
+**From Continuity to Editability: Inverting GANs with Consecutive Images**
+
+- Paper: https://arxiv.org/abs/2107.13812
+- Code: https://github.com/Qingyang-Xu/InvertingGANs_with_ConsecutiveImgs
 
 <a name="NAS"></a>
 
@@ -152,6 +167,24 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.11170
 - Code: None
+
+<a name="Zero-Shot-Learning"></a>
+
+# Zero-Shot Learning
+
+**FREE: Feature Refinement for Generalized Zero-Shot Learning**
+
+- Paper: https://arxiv.org/abs/2107.13807
+- Code: https://github.com/shiming-chen/FREE
+
+<a name="Few-Shot-Learning"></a>
+
+# Few-Shot Learning
+
+**Few-Shot and Continual Learning with Attentive Independent Mechanisms**
+
+- Paper: https://arxiv.org/abs/2107.14053
+- Code: https://github.com/huang50213/AIM-Fewshot-Continual
 
 <a name="Long-tailed"></a>
 
@@ -221,6 +254,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Semantic-Segmentation"></a>
 
 ## 语义分割(Semantic Segmentation)
+
+**Personalized Image Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2107.13978
+- Code: https://github.com/zhangyuygss/PIS
+- Dataset: https://github.com/zhangyuygss/PIS
 
 ## 半监督语义分割(Semi-supervised Semantic Segmentation)
 
@@ -302,6 +341,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://shuquanye.com/PNAL_website/
 - Paper(Oral): https://arxiv.org/abs/2107.14230
 
+**VMNet: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation**
+
+- Paper(Oral): https://arxiv.org/abs/2107.13824
+- Code: https://github.com/hzykent/VMNet
+
 <a name="Point-Cloud-Denoising"></a>
 
 ## Point Cloud Denoising(点云去噪)
@@ -350,6 +394,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2107.11291
 - Code(RLE): https://github.com/Jeff-sjtu/res-loglikelihood-regression
 
+## 3D 人体姿态估计
+
+**Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows**
+
+- Paper: https://arxiv.org/abs/2107.13788
+- Code: https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows
+
 <a name="3D-Head-Reconstruction"></a>
 
 # 3D人头重建(3D Head Reconstruction)
@@ -387,6 +438,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12090
 - Code: None
 
+<a name="Adversarial-Attack"></a>
+
+# 对抗攻击(Adversarial Attack)
+
+**Feature Importance-aware Transferable Adversarial Attacks**
+
+- Paper: https://arxiv.org/abs/2107.14185
+- Code: https://github.com/hcguoO0/FIA
+
 <a name="Depth-Estimation"></a>
 
 # 深度估计(Depth Estimation)
@@ -398,6 +458,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12429
 - Code: None
 
+<a name="Gaze-Estimation"></a>
+
+# 视线估计(Gaze Estimation)
+
+**Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation**
+
+- Paper: https://arxiv.org/abs/2107.13780
+- Code: https://github.com/DreamtaleCore/PnP-GA
+
 <a name="Crowd-Counting"></a>
 
 # 人群计数(Crowd Counting)
@@ -406,6 +475,20 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper(Oral): https://arxiv.org/abs/2107.12746
 - Code(P2PNet): https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet
+
+<a name="Trajectory-Prediction"></a>
+
+# 轨迹预测(Trajectory Prediction)
+
+**Human Trajectory Prediction via Counterfactual Analysis**
+
+- Paper: https://arxiv.org/abs/2107.14202
+- Code: https://github.com/CHENGY12/CausalHTP
+
+**Personalized Trajectory Prediction via Distribution Discrimination**
+
+- Paper: https://arxiv.org/abs/2107.14204
+- Code: https://github.com/CHENGY12/DisDis
 
 <a name="Anomaly-Detection"></a>
 
@@ -448,6 +531,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 数据集(Datasets)
 
+**Personalized Image Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2107.13978
+- Code: https://github.com/zhangyuygss/PIS
+- Dataset: https://github.com/zhangyuygss/PIS
+
 **H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction**
 
 - Homepage: https://crisalixsa.github.io/h3d-net/
@@ -457,6 +546,17 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Discovering 3D Parts from Image Collections**
+
+- Homepage: https://chhankyao.github.io/lpd/
+
+- Paper: https://arxiv.org/abs/2107.13629
+
+**Semi-Supervised Active Learning with Temporal Output Discrepancy**
+
+- Paper: https://arxiv.org/abs/2107.14153
+- Code: https://github.com/siyuhuang/TOD
 
 **Why Approximate Matrix Square Root Outperforms Accurate SVD in Global Covariance Pooling?**
 
