@@ -26,7 +26,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Few-shot Segmentation](#Few-shot-Segmentation)
 - [目标跟踪(Object Tracking)](#Object-Tracking)
 - [3D Point Cloud](#3D-Point-Cloud)
-- [Point Cloud Denoising(点云语义分割)](#Point-Cloud-Semantic-Segmentation)
+- [Point Cloud Semantic Segmenation(点云语义分割)](#Point-Cloud-Semantic-Segmentation)
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
@@ -40,6 +40,8 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [人群计数(Crowd Counting)](#Crowd-Counting)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
+- [Video Rescaling](#Video-Rescaling)
+- [Hand-Object Interaction](#Hand-Object-Interaction)
 - [数据集(Datasets)](#Datasets)
 - [其他(Others)](#Others)
 
@@ -295,6 +297,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.11769
 - Code: None
 
+**Learning with Noisy Labels for Robust Point Cloud Segmentation**
+
+- Homepage: https://shuquanye.com/PNAL_website/
+- Paper(Oral): https://arxiv.org/abs/2107.14230
+
 <a name="Point-Cloud-Denoising"></a>
 
 ## Point Cloud Denoising(点云去噪)
@@ -418,6 +425,25 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12309
 - Code: None
 
+<a name="Video-Rescaling"></a>
+
+# Video Rescaling
+
+**Self-Conditioned Probabilistic Learning of Video Rescaling**
+
+- Paper: https://arxiv.org/abs/2107.11639
+
+- Code: None
+
+<a name="Hand-Object-Interaction"></a>
+
+# Hand-Object Interaction
+
+**Learning a Contact Potential Field to Model the Hand-Object Interaction**
+
+- Paper: https://arxiv.org/abs/2012.00924
+- Code: https://lixiny.github.io/CPF 
+
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
@@ -431,6 +457,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Why Approximate Matrix Square Root Outperforms Accurate SVD in Global Covariance Pooling?**
+
+Paper: https://arxiv.org/abs/2105.02498
+
+Code: https://github.com/KingJamesSong/DifferentiableSVD 
 
 **Hand-Object Contact Consistency Reasoning for Human Grasps Generation**
 
