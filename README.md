@@ -547,6 +547,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 其他(Others)
 
+**Generalized Shuffled Linear Regression**
+
+- Paper: https://drive.google.com/file/d/1Qu21VK5qhCW8WVjiRnnBjehrYVmQrDNh/view?usp=sharing
+- Code: https://github.com/SILI1994/Generalized-Shuffled-Linear-Regression
+
 **Discovering 3D Parts from Image Collections**
 
 - Homepage: https://chhankyao.github.io/lpd/
