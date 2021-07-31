@@ -93,6 +93,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.14222
 - Code: None
 
+**Emerging Properties in Self-Supervised Vision Transformers**
+
+- Paper: https://arxiv.org/abs/2104.14294
+- Code: https://github.com/facebookresearch/dino
+
 <a name="GAN"></a>
 
 # GAN
