@@ -39,6 +39,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [时序动作定位(Temporal Action Localization)](#Temporal-Action-Localization)
 - [文本检测(Text Detection)](#Text-Detection)
 - [文本识别(Text Recognition)](#Text-Recognition)
+- [视觉问答(Visual Question Answering, VQA)](#Visual-Question-Answering)
 - [对抗攻击(Adversarial Attack)](#Adversarial-Attack)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [视线估计(Gaze Estimation)](#Gaze-Estimation)
@@ -452,6 +453,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.12090
 - Code: None
+
+<a name="Visual-Question-Answering"></a>
+
+# 视觉问答(Visual Question Answering, VQA)
+
+**Greedy Gradient Ensemble for Robust Visual Question Answering**
+
+- Paper: https://arxiv.org/abs/2107.12651
+
+- Code: https://github.com/GeraldHan/GGE
 
 <a name="Adversarial-Attack"></a>
 
