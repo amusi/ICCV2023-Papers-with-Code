@@ -36,6 +36,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [3D人头重建(3D Head Reconstruction)](#3D-Head-Reconstruction)
 - [行为识别(Action Recognition)](#Action-Recognition)
+- [时序动作定位(Temporal Action Localization)](#Temporal-Action-Localization)
 - [文本检测(Text Detection)](#Text-Detection)
 - [文本识别(Text Recognition)](#Text-Recognition)
 - [对抗攻击(Adversarial Attack)](#Adversarial-Attack)
@@ -425,6 +426,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2104.09952
 - Code: None
 
+<a name="Temporal-Action-Localization"></a>
+
+# 时序动作定位(Temporal Action Localization)
+
+**Enriching Local and Global Contexts for Temporal Action Localization**
+
+- Paper: https://arxiv.org/abs/2107.12960
+- Code: None
+
 <a name="Text-Detection"></a>
 
 # 文本检测(Text Detection)
@@ -480,6 +490,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper(Oral): https://arxiv.org/abs/2107.12746
 - Code(P2PNet): https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet
+
+**Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting**
+
+- Paper: https://arxiv.org/abs/2107.12619
+- Code: https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet
 
 <a name="Trajectory-Prediction"></a>
 
@@ -551,6 +566,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Energy-Based Open-World Uncertainty Modeling for Confidence Calibration**
+
+- Paper: https://arxiv.org/abs/2107.12628
+- Code: None
 
 **Generalized Shuffled Linear Regression**
 
