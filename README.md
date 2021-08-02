@@ -578,6 +578,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 其他(Others)
 
+**Progressive Correspondence Pruning by Consensus Learning**
+
+- Homepage: https://sailor-z.github.io/projects/CLNet.html
+- Paper: https://arxiv.org/abs/2101.00591
+- Code: https://github.com/sailor-z/CLNet
+
+项目主页：
+
 **Energy-Based Open-World Uncertainty Modeling for Confidence Calibration**
 
 - Paper: https://arxiv.org/abs/2107.12628
