@@ -344,6 +344,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12085
 - Code: https://github.com/tsingqguo/ABA
 
+**HiFT: Hierarchical Feature Transformer for Aerial Tracking**
+
+- Paper: https://arxiv.org/abs/2108.00202
+- Code: https://github.com/vision4robotics/HiFT
+
 <a name="3D-Point-Cloud"></a>
 
 # 3D Point Cloud
