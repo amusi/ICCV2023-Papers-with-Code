@@ -25,6 +25,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [2D目标检测(Object Detection)](#Object-Detection)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
+- [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
 - [Few-shot Segmentation](#Few-shot-Segmentation)
 - [人体运动分割(Human Motion Segmentation)](#HMS)
 - [目标跟踪(Object Tracking)](#Object-Tracking)
@@ -317,6 +318,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2107.11669
 - Code: https://github.com/kemaloksuz/RankSortLoss
 
+<a name="Medical-Image-Segmentation"></a>
+
+# 医学图像分割(Medical Image Segmentation)
+
+- Paper: https://arxiv.org/abs/2108.00622
+- Code: None
+
 <a name="Few-shot-Segmentation"></a>
 
 # Few-shot Segmentation
@@ -348,6 +356,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.00202
 - Code: https://github.com/vision4robotics/HiFT
+
+**Learn to Match: Automatic Matching Network Design for Visual Tracking**
+
+- Paper: https://arxiv.org/abs/2108.00803
+- Code: https://github.com/JudasDie/SOTS
 
 <a name="3D-Point-Cloud"></a>
 
