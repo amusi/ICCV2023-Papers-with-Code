@@ -30,6 +30,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [人体运动分割(Human Motion Segmentation)](#HMS)
 - [目标跟踪(Object Tracking)](#Object-Tracking)
 - [3D Point Cloud](#3D-Point-Cloud)
+- [Point Cloud Object Detection(点云目标检测)](#Point-Cloud-Object-Detection)
 - [Point Cloud Semantic Segmenation(点云语义分割)](#Point-Cloud-Semantic-Segmentation)
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
@@ -78,6 +79,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # Visual Transformer
 
+**Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
+
+- Paper: https://arxiv.org/abs/2103.14030
+- Code: https://github.com/microsoft/Swin-Transformer
+
 **An Empirical Study of Training Self-Supervised Vision Transformers**
 
 - Paper(Oral): https://arxiv.org/abs/2104.02057
@@ -87,6 +93,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper(Oral): https://arxiv.org/abs/2102.12122
 - Code: https://github.com/whai362/PVT
+
+**Group-Free 3D Object Detection via Transformers**
+
+- Paper: https://arxiv.org/abs/2104.00678
+- Code: None
 
 **Spatial-Temporal Transformer for Dynamic Scene Graph Generation**
 
@@ -265,6 +276,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.00580
 - Code: None
 
+## 半监督目标检测
+
+**End-to-End Semi-Supervised Object Detection with Soft Teacher**
+
+- Paper: https://arxiv.org/abs/2106.09018
+- Code: None
+
 <a name="Semantic-Segmentation"></a>
 
 ## 语义分割(Semantic Segmentation)
@@ -322,8 +340,10 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 医学图像分割(Medical Image Segmentation)
 
+**Recurrent Mask Refinement for Few-Shot Medical Image Segmentation**
+
 - Paper: https://arxiv.org/abs/2108.00622
-- Code: None
+- Code:  https://github.com/uci-cbcl/RP-Net 
 
 <a name="Few-shot-Segmentation"></a>
 
@@ -371,6 +391,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://hansen7.github.io/OcCo/
 - Paper: https://arxiv.org/abs/2010.01089 
 - Code: https://github.com/hansen7/OcCo
+
+<a name="Point-Cloud-Object-Detection"></a>
+
+# Point Cloud Object Detection(点云目标检测)
+
+**Group-Free 3D Object Detection via Transformers**
+
+- Paper: https://arxiv.org/abs/2104.00678
+- Code: None
 
 <a name="Point-Cloud-Semantic-Segmentation"></a>
 
