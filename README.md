@@ -26,6 +26,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [Few-shot Segmentation](#Few-shot-Segmentation)
+- [人体运动分割(Human Motion Segmentation)](#HMS)
 - [目标跟踪(Object Tracking)](#Object-Tracking)
 - [3D Point Cloud](#3D-Point-Cloud)
 - [Point Cloud Semantic Segmenation(点云语义分割)](#Point-Cloud-Semantic-Segmentation)
@@ -47,6 +48,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [轨迹预测(Trajectory Prediction)](#Trajectory-Prediction)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
+- [Unsupervised Domain Adaptation](#UDA)
 - [Video Rescaling](#Video-Rescaling)
 - [Hand-Object Interaction](#Hand-Object-Interaction)
 - [数据集(Datasets)](#Datasets)
@@ -255,7 +257,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **SimROD: A Simple Adaptation Method for Robust Object Detection**
 
 - Paper(Oral): https://arxiv.org/abs/2107.13389
+- Code: None
 
+**GraphFPN: Graph Feature Pyramid Network for Object Detection**
+
+- Paper: https://arxiv.org/abs/2108.00580
 - Code: None
 
 <a name="Semantic-Segmentation"></a>
@@ -267,6 +273,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.13978
 - Code: https://github.com/zhangyuygss/PIS
 - Dataset: https://github.com/zhangyuygss/PIS
+
+**Standardized Max Logits: A Simple yet Effective Approach for Identifying Unexpected Road Obstacles in Urban-Scene Segmentation**
+
+- Paper(Oral): https://arxiv.org/abs/2107.11264
+- Code: None
 
 ## 半监督语义分割(Semi-supervised Semantic Segmentation)
 
@@ -315,7 +326,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2103.15402
 - Code: https://github.com/LiheYoung/MiningFSS
 
-<a name="Object Tracking"></a>
+<a name="HMS"></a>
+
+# 人体运动分割(Human Motion Segmentation)
+
+**Graph Constrained Data Representation Learning for Human Motion Segmentation**
+
+- Paper: https://arxiv.org/abs/2107.13362
+- Code: None
+
+<a name="Object-Tracking"></a>
 
 # 目标跟踪(Object Tracking)
 
@@ -537,6 +557,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Spatial-Temporal Transformer for Dynamic Scene Graph Generation**
 
 - Paper: https://arxiv.org/abs/2107.12309
+- Code: None
+
+<a name="UDA"></a>
+
+# Unsupervised Domain Adaptation
+
+**Recursively Conditional Gaussian for Ordinal Unsupervised Domain Adaptation**
+
+- Paper(Oral): https://arxiv.org/abs/2107.13467
 - Code: None
 
 <a name="Video-Rescaling"></a>
