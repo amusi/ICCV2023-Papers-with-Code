@@ -367,6 +367,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 目标跟踪(Object Tracking)
 
+**Learning Spatio-Temporal Transformer for Visual Tracking**
+
+- Paper: https://arxiv.org/abs/2103.17154
+- Code: https://github.com/researchmm/Stark
+
 **Learning to Adversarially Blur Visual Object Tracking**
 
 - Paper: https://arxiv.org/abs/2107.12085
