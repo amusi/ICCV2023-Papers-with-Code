@@ -21,6 +21,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Zero-Shot Learning](#Zero-Shot-Learning)
 - [Few-Shot Learning](#Few-Shot-Learning)
 - [长尾(Long-tailed)](#Long-tailed)
+- [Vision and Language](#VL)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
 - [2D目标检测(Object Detection)](#Object-Detection)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
@@ -113,6 +114,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2104.14294
 - Code: https://github.com/facebookresearch/dino
+
+**Learning Spatio-Temporal Transformer for Visual Tracking**
+
+- Paper: https://arxiv.org/abs/2103.17154
+- Code: https://github.com/researchmm/Stark
+
+**Fast Convergence of DETR with Spatially Modulated Co-Attention**
+
+- Paper: https://arxiv.org/abs/2101.07448
+- Code: https://github.com/abc403/SMCA-replication
 
 <a name="GAN"></a>
 
@@ -216,6 +227,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12028
 - Code: https://github.com/jiequancui/Parametric-Contrastive-Learning
 
+<a name="VL"></a>
+
+# Vision and Language
+
+**VLGrammar: Grounded Grammar Induction of Vision and Language**
+
+- Paper: https://arxiv.org/abs/2103.12975
+- Code: https://github.com/evelinehong/VLGrammar
+
 <a name="Un/Self-Supervised"></a>
 
 # 无监督/自监督(Un/Self-Supervised)
@@ -275,6 +295,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.00580
 - Code: None
+
+**Fast Convergence of DETR with Spatially Modulated Co-Attention**
+
+- Paper: https://arxiv.org/abs/2101.07448
+- Code: https://github.com/abc403/SMCA-replication
 
 ## 半监督目标检测
 
@@ -498,6 +523,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2104.09952
 - Code: None
+
+**Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition**
+
+- Paper: https://arxiv.org/abs/2107.12213
+- Code: https://github.com/Uason-Chen/CTR-GCN
 
 <a name="Temporal-Action-Localization"></a>
 
