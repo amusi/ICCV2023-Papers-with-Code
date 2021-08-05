@@ -76,6 +76,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.11170
 - Code: None
 
+**Vision Transformer with Progressive Sampling**
+
+- Paper: https://arxiv.org/abs/2108.01684
+
+- Code: https://github.com/yuexy/PS-ViT
+
 <a name="Transformer"></a>
 
 # Visual Transformer
@@ -124,6 +130,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2101.07448
 - Code: https://github.com/abc403/SMCA-replication
+
+**Vision Transformer with Progressive Sampling**
+
+- Paper: https://arxiv.org/abs/2108.01684
+
+- Code: https://github.com/yuexy/PS-ViT
 
 <a name="GAN"></a>
 
