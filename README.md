@@ -510,6 +510,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2107.11291
 - Code(RLE): https://github.com/Jeff-sjtu/res-loglikelihood-regression
 
+**Online Knowledge Distillation for Efficient Pose Estimation**
+
+- Paper: https://arxiv.org/abs/2108.02092
+- Code: None
+
 ## 3D 人体姿态估计
 
 **Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows**
