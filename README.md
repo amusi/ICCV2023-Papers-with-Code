@@ -260,8 +260,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **DetCo: Unsupervised Contrastive Learning for Object Detection**
 
 - Paper: https://arxiv.org/abs/2102.04803
-
 - Code: https://github.com/xieenze/DetCo
+
+**Enhancing Self-supervised Video Representation Learning via Multi-level Feature Optimization**
+
+- Paper: https://arxiv.org/abs/2108.02183
+- Code: None
 
 <a name="Object-Detection"></a>
 
@@ -545,6 +549,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.12213
 - Code: https://github.com/Uason-Chen/CTR-GCN
+
+**Enhancing Self-supervised Video Representation Learning via Multi-level Feature Optimization**
+
+- Paper: https://arxiv.org/abs/2108.02183
+- Code: None
 
 <a name="Temporal-Action-Localization"></a>
 
