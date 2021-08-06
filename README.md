@@ -23,6 +23,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [长尾(Long-tailed)](#Long-tailed)
 - [Vision and Language](#VL)
 - [无监督/自监督(Self-Supervised)](#Un/Self-Supervised)
+- [Multi-Label Image Recognition(多标签图像识别)](#MLIR)
 - [2D目标检测(Object Detection)](#Object-Detection)
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
@@ -265,6 +266,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Enhancing Self-supervised Video Representation Learning via Multi-level Feature Optimization**
 
 - Paper: https://arxiv.org/abs/2108.02183
+- Code: None
+
+<a name="MLIR"></a>
+
+# Multi-Label Image Recognition(多标签图像识别)
+
+**Residual Attention: A Simple but Effective Method for Multi-Label Recognition**
+
+- Paper: https://arxiv.org/abs/2108.02456
 - Code: None
 
 <a name="Object-Detection"></a>
