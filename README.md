@@ -52,6 +52,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [轨迹预测(Trajectory Prediction)](#Trajectory-Prediction)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
+- [图像编辑(Image Editing)](#Image-Editing)
 - [Unsupervised Domain Adaptation](#UDA)
 - [Video Rescaling](#Video-Rescaling)
 - [Hand-Object Interaction](#Hand-Object-Interaction)
@@ -187,6 +188,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.13812
 - Code: https://github.com/Qingyang-Xu/InvertingGANs_with_ConsecutiveImgs
+
+**Sketch Your Own GAN**
+
+- Homepage: https://peterwang512.github.io/GANSketching/
+- Paper: https://arxiv.org/abs/2108.02774
+
+- 代码: https://github.com/peterwang512/GANSketching
 
 <a name="NAS"></a>
 
@@ -701,6 +709,17 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.12309
 - Code: None
+
+<a name="Image-Editing"></a>
+
+# 图像编辑(Image Editing)
+
+**Sketch Your Own GAN**
+
+- Homepage: https://peterwang512.github.io/GANSketching/
+- Paper: https://arxiv.org/abs/2108.02774
+
+- 代码: https://github.com/peterwang512/GANSketching
 
 <a name="UDA"></a>
 
