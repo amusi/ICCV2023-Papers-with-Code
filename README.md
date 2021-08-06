@@ -80,8 +80,23 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Vision Transformer with Progressive Sampling**
 
 - Paper: https://arxiv.org/abs/2108.01684
-
 - Code: https://github.com/yuexy/PS-ViT
+
+**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
+
+- Paper: https://arxiv.org/abs/2101.11986
+- Code: https://github.com/yitu-opensource/T2T-ViT
+
+**Rethinking Spatial Dimensions of Vision Transformers**
+
+- Paper: https://arxiv.org/abs/2103.16302
+
+- Code: https://github.com/naver-ai/pit
+
+**Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
+
+- Paper: https://arxiv.org/abs/2103.14030
+- Code: https://github.com/microsoft/Swin-Transformer
 
 <a name="Transformer"></a>
 
@@ -135,8 +150,18 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Vision Transformer with Progressive Sampling**
 
 - Paper: https://arxiv.org/abs/2108.01684
-
 - Code: https://github.com/yuexy/PS-ViT
+
+**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
+
+- Paper: https://arxiv.org/abs/2101.11986
+- Code: https://github.com/yitu-opensource/T2T-ViT
+
+**Rethinking Spatial Dimensions of Vision Transformers**
+
+- Paper: https://arxiv.org/abs/2103.16302
+
+- Code: https://github.com/naver-ai/pit
 
 <a name="GAN"></a>
 
