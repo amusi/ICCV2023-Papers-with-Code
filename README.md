@@ -786,6 +786,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 其他(Others)
 
+**Out-of-Core Surface Reconstruction via Global TGV Minimization**
+
+- Paper: https://arxiv.org/abs/2107.14790
+- Code: None
+
 **Progressive Correspondence Pruning by Consensus Learning**
 
 - Homepage: https://sailor-z.github.io/projects/CLNet.html
