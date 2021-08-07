@@ -560,7 +560,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 **IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID**
 
-- Paper: https://arxiv.org/abs/2108.02413
+- Paper(Oral): https://arxiv.org/abs/2108.02413
 - Code: https://github.com/SikaStar/IDM
 
 <a name="Human-Pose-Estimation"></a>
