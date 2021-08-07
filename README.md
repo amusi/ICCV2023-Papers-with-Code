@@ -32,8 +32,9 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [人体运动分割(Human Motion Segmentation)](#HMS)
 - [目标跟踪(Object Tracking)](#Object-Tracking)
 - [3D Point Cloud](#3D-Point-Cloud)
-- [Point Cloud Object Detection(点云目标检测)](#Point-Cloud-Object-Detection)
-- [Point Cloud Semantic Segmenation(点云语义分割)](#Point-Cloud-Semantic-Segmentation)
+- [3D Object Detection(点云目标检测)](#Point-Cloud-Object-Detection)
+- [3D Semantic Segmenation(点云语义分割)](#Point-Cloud-Semantic-Segmentation)
+- [3D Instance Segmentation(点云实例分割)](#Point-Cloud-Instance-Segmentation)
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
@@ -508,6 +509,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper(Oral): https://arxiv.org/abs/2107.13824
 - Code: https://github.com/hzykent/VMNet
+
+<a name="Point-Cloud-Instance-Segmentation"></a>
+
+## Point Cloud Instance Segmentation(点云实例分割)
+
+**Hierarchical Aggregation for 3D Instance Segmentation**
+
+- Paper: https://arxiv.org/abs/2108.02350
+
+- Code: https://github.com/hustvl/HAIS
 
 <a name="Point-Cloud-Denoising"></a>
 
