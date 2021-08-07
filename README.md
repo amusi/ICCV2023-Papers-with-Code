@@ -510,6 +510,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2107.13824
 - Code: https://github.com/hzykent/VMNet
 
+**Sparse-to-dense Feature Matching: Intra and Inter domain Cross-modal Learning in Domain Adaptation for 3D Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2107.14724
+
+- Code: https://github.com/leolyj/DsCML
+
 <a name="Point-Cloud-Instance-Segmentation"></a>
 
 ## Point Cloud Instance Segmentation(点云实例分割)
