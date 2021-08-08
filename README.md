@@ -38,6 +38,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
+- 视频插帧(Video In)
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [3D人头重建(3D Head Reconstruction)](#3D-Head-Reconstruction)
@@ -554,6 +555,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2004.03791
 - Code: https://github.com/LongguangWang/ArbSR
 
+<a name="VFI"></a>
+
+# 视频插帧(Video Frame Interpolation)
+
+**XVFI: eXtreme Video Frame Interpolation**
+
+- Paper(Oral): https://arxiv.org/abs/2103.16206
+- Code: https://github.com/JihyongOh/XVFI
+- Dataset: https://github.com/JihyongOh/XVFI
+
 <a name="Re-ID"></a>
 
 # 行人重识别(Person Re-identification)
@@ -775,6 +786,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**XVFI: eXtreme Video Frame Interpolation**
+
+- Paper(Oral): https://arxiv.org/abs/2103.16206
+- Code: https://github.com/JihyongOh/XVFI
+- Dataset: https://github.com/JihyongOh/XVFI
 
 **Personalized Image Semantic Segmentation**
 
