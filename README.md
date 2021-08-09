@@ -390,6 +390,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2107.11264
 - Code: None
 
+## Few-Shot语义分割
+
+**Learning Meta-class Memory for Few-Shot Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2108.02958'
+- Code: None
+
 ## 半监督语义分割(Semi-supervised Semantic Segmentation)
 
 **Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation**
