@@ -28,6 +28,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [医学图像分割(Medical Image Segmentation)](#Medical-Image-Segmentation)
+- [视频目标分割(Video Object Segmentation)](#VOS)
 - [Few-shot Segmentation](#Few-shot-Segmentation)
 - [人体运动分割(Human Motion Segmentation)](#HMS)
 - [目标跟踪(Object Tracking)](#Object-Tracking)
@@ -38,7 +39,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
-- 视频插帧(Video In)
+- [视频插帧(Video Frame Interpolation)](#VFI)
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [3D人头重建(3D Head Reconstruction)](#3D-Head-Reconstruction)
@@ -435,6 +436,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.00622
 - Code:  https://github.com/uci-cbcl/RP-Net 
+
+<a name="VOS"></a>
+
+# 视频目标分割(Video Object Segmentation)
+
+**Full-Duplex Strategy for Video Object Segmentation**
+
+- Homepage: http://dpfan.net/FSNet/
+- Paper:  https://arxiv.org/abs/2108.03151 
+- Code: https://github.com/GewelsJI/FSNet
 
 <a name="Few-shot-Segmentation"></a>
 
