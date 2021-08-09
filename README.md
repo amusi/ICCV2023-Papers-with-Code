@@ -303,6 +303,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.02183
 - Code: None
 
+**Improving Contrastive Learning by Visualizing Feature Transformation**
+
+- Paper(Oral): https://arxiv.org/abs/2108.02982
+- Code: https://github.com/DTennant/CL-Visualizing-Feature-Transformation
+
 <a name="MLIR"></a>
 
 # Multi-Label Image Recognition(多标签图像识别)
