@@ -165,8 +165,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Rethinking Spatial Dimensions of Vision Transformers**
 
 - Paper: https://arxiv.org/abs/2103.16302
-
 - Code: https://github.com/naver-ai/pit
+
+**The Right to Talk: An Audio-Visual Transformer Approach**
+
+- Paper: https://arxiv.org/abs/2108.03256 
+- Code: None
 
 <a name="GAN"></a>
 
@@ -853,6 +857,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Impact of Aliasing on Generalizatin in Deep Convolutional Networks**
+
+- Paper: https://arxiv.org/abs/2108.03489
+- Code: None
 
 **Out-of-Core Surface Reconstruction via Global TGV Minimization**
 
