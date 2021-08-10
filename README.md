@@ -56,6 +56,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [图像编辑(Image Editing)](#Image-Editing)
+- [风格迁移(Style Transfer)](#Style-Transfer)
 - [Unsupervised Domain Adaptation](#UDA)
 - [Video Rescaling](#Video-Rescaling)
 - [Hand-Object Interaction](#Hand-Object-Interaction)
@@ -777,6 +778,18 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.02774
 
 - 代码: https://github.com/peterwang512/GANSketching
+
+<a name="Style-Transfer"></a>
+
+# 风格迁移(Style Transfer)
+
+**AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer**
+
+- Paper: https://arxiv.org/abs/2108.03647
+
+- Paddle Code：https://github.com/PaddlePaddle/PaddleGAN
+
+- PyTorch Code：https://github.com/Huage001/AdaAttN
 
 <a name="UDA"></a>
 
