@@ -507,6 +507,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2010.01089 
 - Code: https://github.com/hansen7/OcCo
 
+**DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation**
+
+- Paper: https://arxiv.org/abs/2108.04023
+- Code: None
+
 <a name="Point-Cloud-Object-Detection"></a>
 
 # Point Cloud Object Detection(点云目标检测)
@@ -538,8 +543,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Sparse-to-dense Feature Matching: Intra and Inter domain Cross-modal Learning in Domain Adaptation for 3D Semantic Segmentation**
 
 - Paper: https://arxiv.org/abs/2107.14724
-
 - Code: https://github.com/leolyj/DsCML
+
+**DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation**
+
+- Paper: https://arxiv.org/abs/2108.04023
+- Code: None
 
 <a name="Point-Cloud-Instance-Segmentation"></a>
 
