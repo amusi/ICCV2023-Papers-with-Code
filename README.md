@@ -172,6 +172,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.03256 
 - Code: None
 
+**Joint Inductive and Transductive Learning for Video Object Segmentation**
+
+- Paper: https://arxiv.org/abs/2108.03679
+- Code: https://github.com/maoyunyao/JOINT
+
 <a name="GAN"></a>
 
 # GAN
