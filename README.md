@@ -400,6 +400,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2107.11264
 - Code: None
 
+**Enhanced Boundary Learning for Glass-like Object Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.15734
+- Code: https://github.com/hehao13/EBLNet
+
 ## Few-Shot语义分割
 
 **Learning Meta-class Memory for Few-Shot Semantic Segmentation**
