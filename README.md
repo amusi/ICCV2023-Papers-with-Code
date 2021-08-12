@@ -741,6 +741,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12429
 - Code: None
 
+**Towards Interpretable Deep Networks for Monocular Depth Estimation**
+
+- Paper: https://arxiv.org/abs/2108.05312
+- Code: https://github.com/youzunzhi/InterpretableMDE
+
 <a name="Gaze-Estimation"></a>
 
 # 视线估计(Gaze Estimation)
