@@ -403,6 +403,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2106.09018
 - Code: None
 
+## 旋转目标检测
+
+**Oriented R-CNN for Object Detection**
+
+- Paper: https://arxiv.org/abs/2108.05699
+
+- Code: https://github.com/jbwang1997/OBBDetection
+
 <a name="Semantic-Segmentation"></a>
 
 ## 语义分割(Semantic Segmentation)
