@@ -104,6 +104,17 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2103.14030
 - Code: https://github.com/microsoft/Swin-Transformer
 
+**Conformer: Local Features Coupling Global Representations for Visual Recognition**
+
+- Paper: https://arxiv.org/abs/2105.03889
+
+- Code: https://github.com/pengzhiliang/Conformer
+
+**MicroNet: Improving Image Recognition with Extremely Low FLOPs**
+
+- Paper: https://arxiv.org/abs/2108.05894
+- Code: https://github.com/liyunsheng13/micronet
+
 <a name="Transformer"></a>
 
 # Visual Transformer
@@ -177,6 +188,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.03679
 - Code: https://github.com/maoyunyao/JOINT
+
+**Conformer: Local Features Coupling Global Representations for Visual Recognition**
+
+- Paper: https://arxiv.org/abs/2105.03889
+
+- Code: https://github.com/pengzhiliang/Conformer
 
 <a name="GAN"></a>
 
@@ -607,6 +624,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2004.03791
 - Code: https://github.com/LongguangWang/ArbSR
+
+**Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2108.05302
+
+- Code: https://github.com/JingyunLiang/MANet
 
 <a name="Deblurring"></a>
 
