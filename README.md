@@ -192,8 +192,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Conformer: Local Features Coupling Global Representations for Visual Recognition**
 
 - Paper: https://arxiv.org/abs/2105.03889
-
 - Code: https://github.com/pengzhiliang/Conformer
+
+**Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer**
+
+- Paper: https://arxiv.org/abs/2108.03032
+- Code: https://github.com/zhiheLu/CWT-for-FSS
 
 <a name="GAN"></a>
 
@@ -437,6 +441,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.02958'
 - Code: None
+
+**Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer**
+
+- Paper: https://arxiv.org/abs/2108.03032
+- Code: https://github.com/zhiheLu/CWT-for-FSS
 
 ## 半监督语义分割(Semi-supervised Semantic Segmentation)
 
