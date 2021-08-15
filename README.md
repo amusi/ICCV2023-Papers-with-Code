@@ -564,6 +564,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.00803
 - Code: https://github.com/JudasDie/SOTS
 
+**Saliency-Associated Object Tracking**
+
+- Paper: https://arxiv.org/abs/2108.03637
+- Code: https://github.com/ZikunZhou/SAOT.git
+
 <a name="3D-Point-Cloud"></a>
 
 # 3D Point Cloud
