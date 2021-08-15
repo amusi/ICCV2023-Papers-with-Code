@@ -459,6 +459,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2107.11279
 - Code: https://github.com/CVMI-Lab/DARS
 
+## 弱监督语义分割(Weakly Supervised Semantic Segmentation)
+
+**Complementary Patch for Weakly Supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2108.03852
+- Code: None
+
 ## 无监督分割(Unsupervised Segmentation)
 
 **Labels4Free: Unsupervised Segmentation using StyleGAN**
