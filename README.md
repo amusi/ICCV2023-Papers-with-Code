@@ -797,6 +797,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.05312
 - Code: https://github.com/youzunzhi/InterpretableMDE
 
+**Regularizing Nighttime Weirdness: Efficient Self-supervised Monocular Depth Estimation in the Dark**
+
+- Paper: https://arxiv.org/abs/2108.03830
+- Code: https://github.com/w2kun/RNW
+
 <a name="Gaze-Estimation"></a>
 
 # 视线估计(Gaze Estimation)
