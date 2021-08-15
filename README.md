@@ -58,6 +58,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [图像编辑(Image Editing)](#Image-Editing)
 - [风格迁移(Style Transfer)](#Style-Transfer)
+- [神经绘画(Neural Painting)](#Neural-Painting)
 - [Unsupervised Domain Adaptation](#UDA)
 - [Video Rescaling](#Video-Rescaling)
 - [Hand-Object Interaction](#Hand-Object-Interaction)
@@ -198,6 +199,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.03032
 - Code: https://github.com/zhiheLu/CWT-for-FSS
+
+**Paint Transformer: Feed Forward Neural Painting with Stroke Prediction**
+
+- Paper: https://arxiv.org/abs/2108.03798
+- Code: https://github.com/wzmsltw/PaintTransformer
 
 <a name="GAN"></a>
 
@@ -886,6 +892,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paddle Code：https://github.com/PaddlePaddle/PaddleGAN
 
 - PyTorch Code：https://github.com/Huage001/AdaAttN
+
+<a name="Neural-Painting"></a>
+
+# 神经绘画(Neural Painting)
+
+**Paint Transformer: Feed Forward Neural Painting with Stroke Prediction**
+
+- Paper: https://arxiv.org/abs/2108.03798
+- Code: https://github.com/wzmsltw/PaintTransformer
 
 <a name="UDA"></a>
 
