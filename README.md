@@ -205,6 +205,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.03798
 - Code: https://github.com/wzmsltw/PaintTransformer
 
+**Conditional DETR for Fast Training Convergence**
+
+- Paper: https://arxiv.org/abs/2108.06152
+
+- Code: https://github.com/Atten4Vis/ConditionalDETR
+
 <a name="GAN"></a>
 
 # GAN
@@ -405,6 +411,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2101.07448
 - Code: https://github.com/abc403/SMCA-replication
+
+**Conditional DETR for Fast Training Convergence**
+
+- Paper: https://arxiv.org/abs/2108.06152
+
+- Code: https://github.com/Atten4Vis/ConditionalDETR
 
 ## 半监督目标检测
 
