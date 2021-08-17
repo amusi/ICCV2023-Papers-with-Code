@@ -14,6 +14,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - [Backbone](#Backbone)
 - [Transformer](#Transformer)
+- [涨点神器](#Cool)
 - [GAN](#GAN)
 - [NAS](#NAS)
 - [NeRF](#NeRF)
@@ -215,6 +216,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.05997
 - Code: https://github.com/google-research/google-research/tree/master/musiq
+
+<a name="Cool"></a>
+
+# 涨点神器
+
+**FaPN: Feature-aligned Pyramid Network for Dense Image Prediction**
+
+- Paper: https://github.com/EMI-Group/FaPN
+- Code: https://arxiv.org/abs/2108.07058
 
 <a name="GAN"></a>
 
