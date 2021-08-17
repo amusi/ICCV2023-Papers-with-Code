@@ -218,6 +218,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.05997
 - Code: https://github.com/google-research/google-research/tree/master/musiq
 
+**SOTR: Segmenting Objects with Transformers**
+
+- Paper: https://arxiv.org/abs/2108.06747
+- Code: https://github.com/easton-cau/SOTR
+
 <a name="Cool"></a>
 
 # 涨点神器
@@ -525,6 +530,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper(Oral): https://arxiv.org/abs/2107.11669
 - Code: https://github.com/kemaloksuz/RankSortLoss
+
+**SOTR: Segmenting Objects with Transformers**
+
+- Paper: https://arxiv.org/abs/2108.06747
+- Code: https://github.com/easton-cau/SOTR
 
 <a name="Medical-Image-Segmentation"></a>
 
