@@ -724,6 +724,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Code: https://github.com/JihyongOh/XVFI
 - Dataset: https://github.com/JihyongOh/XVFI
 
+**Asymmetric Bilateral Motion Estimation for Video Frame Interpolation**
+
+- Paper: https://arxiv.org/abs/2108.06815
+- Code: https://github.com/JunHeum/ABME
+
 <a name="Re-ID"></a>
 
 # 行人重识别(Person Re-identification)
