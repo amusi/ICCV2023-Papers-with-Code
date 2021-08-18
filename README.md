@@ -867,6 +867,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.03830
 - Code: https://github.com/w2kun/RNW
 
+**Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation**
+
+- Paper: https://arxiv.org/abs/2108.07628
+- Code: https://github.com/LINA-lln/ADDS-DepthNet
+
 <a name="Gaze-Estimation"></a>
 
 # 视线估计(Gaze Estimation)
