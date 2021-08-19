@@ -45,6 +45,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [3D人头重建(3D Head Reconstruction)](#3D-Head-Reconstruction)
+- [人脸识别(Face Recognition)](#FR)
 - [行为识别(Action Recognition)](#Action-Recognition)
 - [时序动作定位(Temporal Action Localization)](#Temporal-Action-Localization)
 - [文本检测(Text Detection)](#Text-Detection)
@@ -780,6 +781,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://crisalixsa.github.io/h3d-net/
 
 - Paper: https://arxiv.org/abs/2107.12512
+
+<a name="FR"></a>
+
+# 人脸识别(Face Recognition)
+
+**SynFace: Face Recognition with Synthetic Data**
+
+- Paper: https://arxiv.org/abs/2108.07960
+- Code: None
 
 <a name="Action-Recognition"></a>
 
