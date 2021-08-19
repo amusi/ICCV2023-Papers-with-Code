@@ -627,6 +627,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.04023
 - Code: None
 
+**Adaptive Graph Convolution for Point Cloud Analysis**
+
+- Paper: https://arxiv.org/abs/2108.08035
+- Code: https://github.com/hrzhou2/AdaptConv-master
+
 <a name="Point-Cloud-Object-Detection"></a>
 
 # Point Cloud Object Detection(点云目标检测)
@@ -664,6 +669,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.04023
 - Code: None
+
+**Adaptive Graph Convolution for Point Cloud Analysis**
+
+- Paper: https://arxiv.org/abs/2108.08035
+- Code: https://github.com/hrzhou2/AdaptConv-master
 
 <a name="Point-Cloud-Instance-Segmentation"></a>
 
