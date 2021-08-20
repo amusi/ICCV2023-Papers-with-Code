@@ -39,6 +39,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [3D Instance Segmentation(点云实例分割)](#Point-Cloud-Instance-Segmentation)
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
+- [Point Cloud Completion(点云补全)](#PCC)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [去模糊(Deblurring)](#Deblurring)
 - [视频插帧(Video Frame Interpolation)](#VFI)
@@ -704,6 +705,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://ispc-group.github.io/hregnet
 - Paper: https://arxiv.org/abs/2107.11992
 - Code: https://github.com/ispc-lab/HRegNet
+
+<a name="PCC"></a>
+
+# Point Cloud Completion(点云补全)
+
+**PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2108.08839
+
+- Code: https://github.com/yuxumin/PoinTr
 
 <a name="Super-Resolution"></a>
 
