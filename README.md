@@ -1058,6 +1058,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 数据集(Datasets)
 
+**Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
+
+- Paper: http://arxiv.org/abs/2108.08202
+- Code: https://github.com/Neural-video-delivery/CaFM-Pytorch-ICCV2021
+- Dataset: https://github.com/Neural-video-delivery/CaFM-Pytorch-ICCV2021
+
 **VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection**
 
 - Paper: https://arxiv.org/abs/2108.08482
@@ -1086,6 +1092,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
+
+- Paper: http://arxiv.org/abs/2108.08202
+- Code: https://github.com/Neural-video-delivery/CaFM-Pytorch-ICCV2021
+- Dataset: https://github.com/Neural-video-delivery/CaFM-Pytorch-ICCV2021
 
 **Impact of Aliasing on Generalizatin in Deep Convolutional Networks**
 
