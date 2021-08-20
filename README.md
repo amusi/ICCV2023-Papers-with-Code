@@ -226,6 +226,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.06747
 - Code: https://github.com/easton-cau/SOTR
 
+**PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers**
+
+- Paper(Oral): https://arxiv.org/abs/2108.08839
+
+- Code: https://github.com/yuxumin/PoinTr
+
 <a name="Cool"></a>
 
 # 涨点神器
