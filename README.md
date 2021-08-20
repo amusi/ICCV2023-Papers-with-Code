@@ -55,6 +55,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [深度估计(Depth Estimation)](#Depth-Estimation)
 - [视线估计(Gaze Estimation)](#Gaze-Estimation)
 - [人群计数(Crowd Counting)](#Crowd-Counting)
+- [车道线检测(Lane Detection)](#Lane-Detection)
 - [轨迹预测(Trajectory Prediction)](#Trajectory-Prediction)
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
@@ -915,6 +916,17 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12619
 - Code: https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet
 
+<a name="Lane-Detection"></a>
+
+# 车道线检测(Lane-Detection)
+
+**VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection**
+
+- Paper: https://arxiv.org/abs/2108.08482
+- Code: https://github.com/yujun0-0/MMA-Net
+
+- Dataset: https://github.com/yujun0-0/MMA-Net
+
 <a name="Trajectory-Prediction"></a>
 
 # 轨迹预测(Trajectory Prediction)
@@ -1028,6 +1040,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection**
+
+- Paper: https://arxiv.org/abs/2108.08482
+- Code: https://github.com/yujun0-0/MMA-Net
+
+- Dataset: https://github.com/yujun0-0/MMA-Net
 
 **XVFI: eXtreme Video Frame Interpolation**
 
