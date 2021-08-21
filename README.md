@@ -314,6 +314,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://ajayj.com/dietnerf
 - Paper(DietNeRF): https://arxiv.org/abs/2104.00677
 
+**BARF: Bundle-Adjusting Neural Radiance Fields**
+
+- Homepage: https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/
+
+- Paper(Oral): https://arxiv.org/abs/2104.06405
+- Code: https://github.com/chenhsuanlin/bundle-adjusting-NeRF
+
 <a name="Loss"></a>
 
 # Loss
