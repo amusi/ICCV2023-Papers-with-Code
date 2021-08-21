@@ -41,6 +41,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [Point Cloud Completion(点云补全)](#PCC)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
+- [去噪(Denoising)](#Denoising)
 - [去模糊(Deblurring)](#Deblurring)
 - [视频插帧(Video Frame Interpolation)](#VFI)
 - [行人重识别(Person Re-identification)](#Re-ID)
@@ -734,8 +735,21 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution**
 
 - Paper: https://arxiv.org/abs/2108.05302
-
 - Code: https://github.com/JingyunLiang/MANet
+
+**Deep Reparametrization of Multi-Frame Super-Resolution and Denoising**
+
+- Paper(Oral): https://arxiv.org/abs/2108.08286
+- Code: None
+
+<a name="Denoising"></a>
+
+# 去噪(Denoising)
+
+**Deep Reparametrization of Multi-Frame Super-Resolution and Denoising**
+
+- Paper(Oral): https://arxiv.org/abs/2108.08286
+- Code: None
 
 <a name="Deblurring"></a>
 
@@ -1092,6 +1106,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs**
+
+- Paper: https://arxiv.org/abs/2108.07884
+- Code: https://github.com/islamamirul/PermuteNet
 
 **Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
 
