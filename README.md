@@ -230,8 +230,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers**
 
 - Paper(Oral): https://arxiv.org/abs/2108.08839
-
 - Code: https://github.com/yuxumin/PoinTr
+
+**SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer**
+
+- Paper: https://arxiv.org/abs/2108.04444
+- Code: https://github.com/AllenXiangX/SnowflakeNet
 
 <a name="Cool"></a>
 
@@ -732,8 +736,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers**
 
 - Paper(Oral): https://arxiv.org/abs/2108.08839
-
 - Code: https://github.com/yuxumin/PoinTr
+
+**SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer**
+
+- Paper: https://arxiv.org/abs/2108.04444
+- Code: https://github.com/AllenXiangX/SnowflakeNet
 
 <a name="Super-Resolution"></a>
 
