@@ -388,6 +388,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2108.02982
 - Code: https://github.com/DTennant/CL-Visualizing-Feature-Transformation
 
+**Self-Supervised Visual Representations Learning by Contrastive Mask Prediction**
+
+- Paper: https://arxiv.org/abs/2108.08012
+- Code: None
+
 <a name="MLIR"></a>
 
 # Multi-Label Image Recognition(多标签图像识别)
