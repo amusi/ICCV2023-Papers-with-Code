@@ -1138,6 +1138,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 其他(Others)
 
+**A Unified Objective for Novel Class Discovery**
+
+- Homepage: https://ncd-uno.github.io/
+- Paper(Oral): https://arxiv.org/abs/2108.08536
+- Code: https://github.com/DonkeyShot21/UNO
+
 **Global Pooling, More than Meets the Eye: Position Information is Encoded Channel-Wise in CNNs**
 
 - Paper: https://arxiv.org/abs/2108.07884
