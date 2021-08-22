@@ -64,6 +64,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [图像编辑(Image Editing)](#Image-Editing)
 - [风格迁移(Style Transfer)](#Style-Transfer)
 - [神经绘画(Neural Painting)](#Neural-Painting)
+- [特征匹配(Feature Matching)](#FM)
 - [边缘检测(Edge Detection)](#Edge-Detection)
 - [图像质量评估(Image Quality Assessment)](#IQA)
 - [Unsupervised Domain Adaptation](#UDA)
@@ -1041,6 +1042,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.03798
 - Code: https://github.com/wzmsltw/PaintTransformer
+
+<a name="FM"></a>
+
+# 特征匹配(Feature Matching)
+
+**Learning to Match Features with Seeded Graph Matching Network**
+
+- Paper: https://arxiv.org/abs/2108.08771
+
+- Code: https://github.com/vdvchen/SGMNet
 
 <a name="Edge-Detection"></a>
 
