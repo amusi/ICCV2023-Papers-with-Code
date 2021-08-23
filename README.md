@@ -482,8 +482,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Oriented R-CNN for Object Detection**
 
 - Paper: https://arxiv.org/abs/2108.05699
-
 - Code: https://github.com/jbwang1997/OBBDetection
+
+## Few-Shot目标检测
+
+**DeFRCN: Decoupled Faster R-CNN for Few-Shot Object Detection**
+
+- Paper: https://arxiv.org/abs/2108.09017
+- Code: https://github.com/er-muyue/DeFRCN
 
 <a name="Semantic-Segmentation"></a>
 
