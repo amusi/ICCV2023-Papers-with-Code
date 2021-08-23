@@ -277,8 +277,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Homepage: https://peterwang512.github.io/GANSketching/
 - Paper: https://arxiv.org/abs/2108.02774
-
 - 代码: https://github.com/peterwang512/GANSketching
+
+**Manifold Matching via Deep Metric Learning for Generative Modeling**
+
+- Paper: https://arxiv.org/abs/2106.10777
+- Code: https://github.com/dzld00/pytorch-manifold-matching 
 
 <a name="NAS"></a>
 
