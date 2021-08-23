@@ -417,7 +417,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Residual Attention: A Simple but Effective Method for Multi-Label Recognition**
 
 - Paper: https://arxiv.org/abs/2108.02456
-- Code: None
+- Code: https://github.com/Kevinz-code/CSRA
 
 <a name="Object-Detection"></a>
 
