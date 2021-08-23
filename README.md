@@ -62,6 +62,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [图像编辑(Image Editing)](#Image-Editing)
+- [视频稳像(Video Stabilization)](#Video-Stabilization)
 - [风格迁移(Style Transfer)](#Style-Transfer)
 - [神经绘画(Neural Painting)](#Neural-Painting)
 - [特征匹配(Feature Matching)](#FM)
@@ -1032,6 +1033,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.02774
 
 - 代码: https://github.com/peterwang512/GANSketching
+
+<a name="Video-Stabilization"></a>
+
+# 视频稳像(Video Stabilization)
+
+**Out-of-boundary View Synthesis Towards Full-Frame Video Stabilization**
+
+- Paper: https://arxiv.org/abs/2108.09041
+
+- 代码：https://github.com/Annbless/OVS_Stabilization
 
 <a name="Style-Transfer"></a>
 
