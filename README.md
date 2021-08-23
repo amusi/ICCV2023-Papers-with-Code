@@ -961,6 +961,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.07628
 - Code: https://github.com/LINA-lln/ADDS-DepthNet
 
+**StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation**
+
+- Paper: https://arxiv.org/abs/2108.08574
+- Code: https://github.com/SJTU-ViSYS/StructDepth
+
 <a name="Gaze-Estimation"></a>
 
 # 视线估计(Gaze Estimation)
