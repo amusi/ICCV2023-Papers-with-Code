@@ -37,6 +37,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [3D Object Detection(点云目标检测)](#Point-Cloud-Object-Detection)
 - [3D Semantic Segmenation(点云语义分割)](#Point-Cloud-Semantic-Segmentation)
 - [3D Instance Segmentation(点云实例分割)](#Point-Cloud-Instance-Segmentation)
+- [3D Multi-Object Tracking(点云多目标跟踪)](#Point-Cloud-Multi-Object-Tracking)
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [Point Cloud Completion(点云补全)](#PCC)
@@ -724,8 +725,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Hierarchical Aggregation for 3D Instance Segmentation**
 
 - Paper: https://arxiv.org/abs/2108.02350
-
 - Code: https://github.com/hustvl/HAIS
+
+<a name="Point-Cloud-Multi-Object-Tracking"></a>
+
+## Point Cloud Multi-Object Tracking(点云多目标跟踪)
+
+**Exploring Simple 3D Multi-Object Tracking for Autonomous Driving**
+
+- Paper: https://arxiv.org/abs/2108.10312
+- Code: https://github.com/qcraftai/simtrack
 
 <a name="Point-Cloud-Denoising"></a>
 
