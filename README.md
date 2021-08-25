@@ -522,6 +522,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2103.15734
 - Code: https://github.com/hehao13/EBLNet
 
+**Self-Regulation for Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2108.09702
+- Code: https://github.com/dongzhang89/SR-SS
+
 ## Few-Shot语义分割
 
 **Learning Meta-class Memory for Few-Shot Semantic Segmentation**
