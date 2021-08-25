@@ -240,6 +240,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.04444
 - Code: https://github.com/AllenXiangX/SnowflakeNet
 
+**Improving 3D Object Detection with Channel-wise Transformer**
+
+- Paper: https://arxiv.org/abs/2108.10723
+- Code: https://github.com/hlsheng1/CT3D
+
 <a name="Cool"></a>
 
 # 涨点神器
@@ -683,6 +688,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2104.00678
 - Code: None
+
+**Improving 3D Object Detection with Channel-wise Transformer**
+
+- Paper: https://arxiv.org/abs/2108.10723
+- Code: https://github.com/hlsheng1/CT3D
 
 <a name="Point-Cloud-Semantic-Segmentation"></a>
 
