@@ -918,6 +918,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.02183
 - Code: None
 
+**Dynamic Network Quantization for Efficient Video Inference**
+
+- Homepage: https://cs-people.bu.edu/sunxm/VideoIQ/project.html
+- Paper: https://arxiv.org/abs/2108.10394
+- Code: https://github.com/sunxm2357/VideoIQ
+
 <a name="Temporal-Action-Localization"></a>
 
 # 时序动作定位(Temporal Action Localization)
