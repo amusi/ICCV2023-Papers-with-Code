@@ -416,6 +416,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.08012
 - Code: None
 
+**Temporal Knowledge Consistency for Unsupervised Visual Representation Learning**
+
+- Paper: https://arxiv.org/abs/2108.10668
+- Code: None
+
 <a name="MLIR"></a>
 
 # Multi-Label Image Recognition(多标签图像识别)
