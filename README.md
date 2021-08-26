@@ -34,10 +34,10 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [人体运动分割(Human Motion Segmentation)](#HMS)
 - [目标跟踪(Object Tracking)](#Object-Tracking)
 - [3D Point Cloud](#3D-Point-Cloud)
-- [3D Object Detection(点云目标检测)](#Point-Cloud-Object-Detection)
-- [3D Semantic Segmenation(点云语义分割)](#Point-Cloud-Semantic-Segmentation)
-- [3D Instance Segmentation(点云实例分割)](#Point-Cloud-Instance-Segmentation)
-- [3D Multi-Object Tracking(点云多目标跟踪)](#Point-Cloud-Multi-Object-Tracking)
+- [3D Object Detection(3D目标检测)](#Point-Cloud-Object-Detection)
+- [3D Semantic Segmenation(3D语义分割)](#Point-Cloud-Semantic-Segmentation)
+- [3D Instance Segmentation(3D实例分割)](#Point-Cloud-Instance-Segmentation)
+- [3D Multi-Object Tracking(3D多目标跟踪)](#Point-Cloud-Multi-Object-Tracking)
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [Point Cloud Completion(点云补全)](#PCC)
@@ -698,7 +698,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 <a name="Point-Cloud-Object-Detection"></a>
 
-# Point Cloud Object Detection(点云目标检测)
+# 3D Object Detection(3D目标检测)
 
 **Group-Free 3D Object Detection via Transformers**
 
@@ -710,9 +710,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.10723
 - Code: https://github.com/hlsheng1/CT3D
 
+**AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2108.11127
+- Code: https://github.com/zongdai/AutoShape
+
 <a name="Point-Cloud-Semantic-Segmentation"></a>
 
-## Point Cloud Semantic Segmentation(点云语义分割)
+## 3D Semantic Segmentation(3D语义分割)
 
 **ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation**
 
@@ -746,7 +751,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 <a name="Point-Cloud-Instance-Segmentation"></a>
 
-## Point Cloud Instance Segmentation(点云实例分割)
+## 3D Instance Segmentation(3D实例分割)
 
 **Hierarchical Aggregation for 3D Instance Segmentation**
 
@@ -755,7 +760,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 <a name="Point-Cloud-Multi-Object-Tracking"></a>
 
-## Point Cloud Multi-Object Tracking(点云多目标跟踪)
+## 3D Multi-Object Tracking(3D多目标跟踪)
 
 **Exploring Simple 3D Multi-Object Tracking for Autonomous Driving**
 
