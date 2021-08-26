@@ -1204,6 +1204,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 其他(Others)
 
+**Multi-Task Self-Training for Learning General Representations**
+
+- Paper: https://arxiv.org/abs/2108.11353
+- Code: None
+
 **A Unified Objective for Novel Class Discovery**
 
 - Homepage: https://ncd-uno.github.io/
