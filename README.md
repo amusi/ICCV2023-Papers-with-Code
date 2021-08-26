@@ -49,6 +49,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [3D人头重建(3D Head Reconstruction)](#3D-Head-Reconstruction)
 - [人脸识别(Face Recognition)](#FR)
+- [人脸表情识别(Facial Expression Recognition)](#FER)
 - [行为识别(Action Recognition)](#Action-Recognition)
 - [时序动作定位(Temporal Action Localization)](#Temporal-Action-Localization)
 - [文本检测(Text Detection)](#Text-Detection)
@@ -244,6 +245,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.10723
 - Code: https://github.com/hlsheng1/CT3D
+
+**TransFER: Learning Relation-aware Facial Expression Representations with Transformers**
+
+- Paper: https://arxiv.org/abs/2108.11116
+- Code: None
 
 <a name="Cool"></a>
 
@@ -897,6 +903,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **SynFace: Face Recognition with Synthetic Data**
 
 - Paper: https://arxiv.org/abs/2108.07960
+- Code: None
+
+<a name="FER"></a>
+
+# Facial Expression Recognition(人脸表情识别)
+
+**TransFER: Learning Relation-aware Facial Expression Representations with Transformers**
+
+- Paper: https://arxiv.org/abs/2108.11116
 - Code: None
 
 <a name="Action-Recognition"></a>
