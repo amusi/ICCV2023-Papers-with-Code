@@ -489,8 +489,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Conditional DETR for Fast Training Convergence**
 
 - Paper: https://arxiv.org/abs/2108.06152
-
 - Code: https://github.com/Atten4Vis/ConditionalDETR
+
+**TOOD: Task-aligned One-stage Object Detection**
+
+- Paper(Oral): https://arxiv.org/abs/2108.07755
+
+- Code: https://github.com/fcjian/TOOD
 
 ## 半监督目标检测
 
