@@ -357,6 +357,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.11170
 - Code: None
 
+**A Robust Loss for Point Cloud Registration**
+
+- Paper: https://arxiv.org/abs/2108.11682
+- Code: None
+
 <a name="Zero-Shot-Learning"></a>
 
 # Zero-Shot Learning
@@ -790,6 +795,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://ispc-group.github.io/hregnet
 - Paper: https://arxiv.org/abs/2107.11992
 - Code: https://github.com/ispc-lab/HRegNet
+
+**A Robust Loss for Point Cloud Registration**
+
+- Paper: https://arxiv.org/abs/2108.11682
+- Code: None
 
 <a name="PCC"></a>
 
