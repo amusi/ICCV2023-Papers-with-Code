@@ -499,8 +499,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **TOOD: Task-aligned One-stage Object Detection**
 
 - Paper(Oral): https://arxiv.org/abs/2108.07755
-
 - Code: https://github.com/fcjian/TOOD
+
+**Reconcile Prediction Consistency for Balanced Object Detection**
+
+- Paper: https://arxiv.org/abs/2108.10809
+- Code: None 
 
 ## 半监督目标检测
 
