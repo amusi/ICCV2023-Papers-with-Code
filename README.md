@@ -1032,7 +1032,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **AdvDrop: Adversarial Attack to DNNs by Dropping Information**
 
 - Paper: https://arxiv.org/abs/2108.09034
-- Cpde: None
+- Code: https://github.com/RjDuan/AdvDrop
 
 <a name="Depth-Estimation"></a>
 
