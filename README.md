@@ -44,6 +44,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [去噪(Denoising)](#Denoising)
 - [去模糊(Deblurring)](#Deblurring)
+- [阴影去除(Shadow Removal)](Shadow-Removal)
 - [视频插帧(Video Frame Interpolation)](#VFI)
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
@@ -892,6 +893,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.09108
 - Code: None
+
+<a name="Shadow-Removal"></a>
+
+# 阴影去除(Shadow Removal)
+
+**CANet: A Context-Aware Network for Shadow Removal**
+
+- Paper: https://arxiv.org/abs/2108.09894
+- Code: https://github.com/Zipei-Chen/CANet
 
 <a name="VFI"></a>
 
