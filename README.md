@@ -297,6 +297,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2106.10777
 - Code: https://github.com/dzld00/pytorch-manifold-matching 
 
+**Dual Projection Generative Adversarial Networks for Conditional Image Generation**
+
+- Paper: https://arxiv.org/abs/2108.09016
+- Code: None
+
+**GAN Inversion for Out-of-Range Images with Geometric Transformations**
+
+- Paper: https://arxiv.org/abs/2108.08998
+- Code: None
+
 <a name="NAS"></a>
 
 # NAS
