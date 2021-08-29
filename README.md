@@ -70,6 +70,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [特征匹配(Feature Matching)](#FM)
 - [边缘检测(Edge Detection)](#Edge-Detection)
 - [图像质量评估(Image Quality Assessment)](#IQA)
+- [度量学习(Metric Learning)](#ML)
 - [Unsupervised Domain Adaptation](#UDA)
 - [Video Rescaling](#Video-Rescaling)
 - [Hand-Object Interaction](#Hand-Object-Interaction)
@@ -1220,6 +1221,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.05997
 - Code: https://github.com/google-research/google-research/tree/master/musiq
+
+<a name="ML"></a>
+
+# 度量学习(Metric Learning)
+
+**Deep Relational Metric Learning**
+
+- Paper: https://arxiv.org/abs/2108.10026
+
+- Code: https://github.com/zbr17/DRML
 
 <a name="UDA"></a>
 
