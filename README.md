@@ -73,6 +73,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Unsupervised Domain Adaptation](#UDA)
 - [Video Rescaling](#Video-Rescaling)
 - [Hand-Object Interaction](#Hand-Object-Interaction)
+- [Vision-and-Language Navigation](#VLN)
 - [数据集(Datasets)](#Datasets)
 - [其他(Others)](#Others)
 
@@ -375,6 +376,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.13807
 - Code: https://github.com/shiming-chen/FREE
+
+**Discriminative Region-based Multi-Label Zero-Shot Learning**
+
+- Paper: https://arxiv.org/abs/2108.09301
+- Code: https://arxiv.org/abs/2108.09301
 
 <a name="Few-Shot-Learning"></a>
 
@@ -864,8 +870,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Rethinking Coarse-to-Fine Approach in Single Image Deblurring**
 
 - Paper: https://arxiv.org/abs/2108.05054
-
 - Code: https://github.com/chosj95/MIMO-UNet
+
+**Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions**
+
+- Paper: https://arxiv.org/abs/2108.09108
+- Code: None
 
 <a name="VFI"></a>
 
@@ -1019,6 +1029,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.14185
 - Code: https://github.com/hcguoO0/FIA
 
+**AdvDrop: Adversarial Attack to DNNs by Dropping Information**
+
+- Paper: https://arxiv.org/abs/2108.09034
+- Cpde: None
+
 <a name="Depth-Estimation"></a>
 
 # 深度估计(Depth Estimation)
@@ -1097,6 +1112,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.14204
 - Code: https://github.com/CHENGY12/DisDis
+
+**MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction**
+
+- Paper: https://arxiv.org/abs/2108.09274
+- Code: https://github.com/selflein/MG-GAN
 
 <a name="Anomaly-Detection"></a>
 
@@ -1214,9 +1234,25 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2012.00924
 - Code: https://lixiny.github.io/CPF 
 
+<a name="VLN"></a>
+
+# Vision-and-Language Navigation
+
+**Airbert: In-domain Pretraining for Vision-and-Language Navigation**
+
+- Paper: https://arxiv.org/abs/2108.09105
+- Code: https://airbert-vln.github.io/
+- Dataset: https://airbert-vln.github.io/
+
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Airbert: In-domain Pretraining for Vision-and-Language Navigation**
+
+- Paper: https://arxiv.org/abs/2108.09105
+- Code: https://airbert-vln.github.io/
+- Dataset: https://airbert-vln.github.io/
 
 **Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation**
 
@@ -1252,6 +1288,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Continual Learning for Image-Based Camera Localization**
+
+- Paper: https://arxiv.org/abs/2108.09112
+- Code: None
 
 **Multi-Task Self-Training for Learning General Representations**
 
