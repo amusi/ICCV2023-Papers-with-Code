@@ -66,6 +66,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [图像编辑(Image Editing)](#Image-Editing)
 - [视频稳像(Video Stabilization)](#Video-Stabilization)
+- [细粒度识别(Fine-Grained Recognition)](#FGR)
 - [风格迁移(Style Transfer)](#Style-Transfer)
 - [神经绘画(Neural Painting)](#Neural-Painting)
 - [特征匹配(Feature Matching)](#FM)
@@ -1195,6 +1196,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - 代码：https://github.com/Annbless/OVS_Stabilization
 
+<a name="FGR"></a>
+
+# 细粒度识别(Fine-Grained Recognition)
+
+**Webly Supervised Fine-Grained Recognition: Benchmark Datasets and An Approach**
+
+- Paper: https://arxiv.org/abs/2108.02399
+- Code: https://github.com/NUST-Machine-Intelligence-Laboratory/weblyFG-dataset
+- Dataset: https://github.com/NUST-Machine-Intelligence-Laboratory/weblyFG-dataset
+
 <a name="Style-Transfer"></a>
 
 # 风格迁移(Style Transfer)
@@ -1295,6 +1306,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Webly Supervised Fine-Grained Recognition: Benchmark Datasets and An Approach**
+
+- Paper: https://arxiv.org/abs/2108.02399
+- Code: https://github.com/NUST-Machine-Intelligence-Laboratory/weblyFG-dataset
+- Dataset: https://github.com/NUST-Machine-Intelligence-Laboratory/weblyFG-dataset
 
 **Airbert: In-domain Pretraining for Vision-and-Language Navigation**
 
