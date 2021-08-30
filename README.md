@@ -1,4 +1,4 @@
-# ICCV2021-Papers-with-Code
+# Now the project has been added, thanks for sharingICCV2021-Papers-with-Code
 
 [ICCV 2021](http://iccv2021.thecvf.com/) 论文和开源项目合集(papers with code)！
 
@@ -53,6 +53,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [人脸表情识别(Facial Expression Recognition)](#FER)
 - [行为识别(Action Recognition)](#Action-Recognition)
 - [时序动作定位(Temporal Action Localization)](#Temporal-Action-Localization)
+- [手语识别(Sign Language Recognition)](#SLR)
 - [文本检测(Text Detection)](#Text-Detection)
 - [文本识别(Text Recognition)](#Text-Recognition)
 - [视觉问答(Visual Question Answering, VQA)](#Visual-Question-Answering)
@@ -70,6 +71,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [风格迁移(Style Transfer)](#Style-Transfer)
 - [神经绘画(Neural Painting)](#Neural-Painting)
 - [特征匹配(Feature Matching)](#FM)
+- [语义对应(Semantic Correspondence)](#Semantic-Correspondence)
 - [边缘检测(Edge Detection)](#Edge-Detection)
 - [图像质量评估(Image Quality Assessment)](#IQA)
 - [度量学习(Metric Learning)](#ML)
@@ -410,6 +412,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Few-Shot-Learning"></a>
 
 # Few-Shot Learning
+
+**Relational Embedding for Few-Shot Classification**
+
+- Paper: https://arxiv.org/abs/2108.0966
+- Code: https://github.com/dahyun-kang/renet
 
 **Few-Shot and Continual Learning with Attentive Independent Mechanisms**
 
@@ -1036,6 +1043,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12960
 - Code: None
 
+<a name="SLR"></a>
+
+# 手语识别(Sign Language Recognition)
+
+**Visual Alignment Constraint for Continuous Sign Language Recognition**
+
+- Paper: https://arxiv.org/abs/2104.02330
+- Code: https://github.com/ycmin95/VAC_CSLR 
+
 <a name="Text-Detection"></a>
 
 # 文本检测(Text Detection)
@@ -1162,6 +1178,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.09274
 - Code: https://github.com/selflein/MG-GAN
 
+**Social NCE: Contrastive Learning of Socially-aware Motion Representations**
+
+- Paper: https://arxiv.org/abs/2012.11717
+- Code: https://github.com/vita-epfl/social-nce
+
 <a name="Anomaly-Detection"></a>
 
 # 异常检测(Anomaly Detection)
@@ -1241,6 +1262,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.08771
 
 - Code: https://github.com/vdvchen/SGMNet
+
+<a name="Semantic-Correspondence"></a>
+
+# 语义对应(Semantic Correspondence)
+
+**Multi-scale Matching Networks for Semantic Correspondence**
+
+- Paper: https://arxiv.org/abs/2108.00211
+- Code: https://github.com/wintersun661/MMNet
 
 <a name="Edge-Detection"></a>
 
@@ -1359,6 +1389,9 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 其他(Others)
 
+- Now the project has been added, thanks for sharingPaper: https://arxiv.org/abs/2108.08487
+- Code: https://github.com/iCGY96/APR 
+
 **Continual Learning for Image-Based Camera Localization**
 
 - Paper: https://arxiv.org/abs/2108.09112
@@ -1401,8 +1434,6 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://sailor-z.github.io/projects/CLNet.html
 - Paper: https://arxiv.org/abs/2101.00591
 - Code: https://github.com/sailor-z/CLNet
-
-项目主页：
 
 **Energy-Based Open-World Uncertainty Modeling for Confidence Calibration**
 
