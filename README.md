@@ -587,6 +587,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.11819
 - Code: https://github.com/CharlesPikachu/mcibi
 
+**Standardized Max Logits: A Simple yet Effective Approach for Identifying Unexpected Road Obstacles in Urban-Scene Segmentation**
+
+- Paper: https://arxiv.org/abs/2107.11264
+- Code: https://github.com/shjung13/Standardized-max-logits
+
 ## Few-Shot语义分割
 
 **Learning Meta-class Memory for Few-Shot Semantic Segmentation**
