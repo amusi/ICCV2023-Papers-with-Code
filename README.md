@@ -53,6 +53,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [人脸表情识别(Facial Expression Recognition)](#FER)
 - [行为识别(Action Recognition)](#Action-Recognition)
 - [时序动作定位(Temporal Action Localization)](#Temporal-Action-Localization)
+- [群体活动识别(Group Activity Recognition)](#GAR)
 - [手语识别(Sign Language Recognition)](#SLR)
 - [文本检测(Text Detection)](#Text-Detection)
 - [文本识别(Text Recognition)](#Text-Recognition)
@@ -256,6 +257,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.11116
 - Code: None
+
+**GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer**
+
+- Paper: https://arxiv.org/abs/2108.12630
+- Code: https://github.com/xueyee/GroupFormer
 
 <a name="Cool"></a>
 
@@ -1047,6 +1053,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.12960
 - Code: None
+
+<a name="GAR"></a>
+
+# 群体活动识别(Group Activity Recognition)
+
+**GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer**
+
+- Paper: https://arxiv.org/abs/2108.12630
+- Code: https://github.com/xueyee/GroupFormer
 
 <a name="SLR"></a>
 
