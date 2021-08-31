@@ -718,6 +718,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 目标跟踪(Object Tracking)
 
+**Learning to Track Objects from Unlabeled Videos**
+
+- Paper: https://arxiv.org/abs/2108.12711
+- Code: https://github.com/VISION-SJTU/USOT
+
 **Learning Spatio-Temporal Transformer for Visual Tracking**
 
 - Paper: https://arxiv.org/abs/2103.17154
