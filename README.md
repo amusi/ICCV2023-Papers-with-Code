@@ -916,6 +916,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2108.08286
 - Code: None
 
+**Rethinking Deep Image Prior for Denoising**
+
+- Paper: https://arxiv.org/abs/2108.12841
+- Code: https://github.com/gistvision/DIP-denosing
+
 <a name="Deblurring"></a>
 
 # 去模糊(Deblurring)
