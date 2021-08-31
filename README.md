@@ -1342,6 +1342,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 数据集(Datasets)
 
+**BioFors: A Large Biomedical Image Forensics Dataset**
+
+- Paper: https://arxiv.org/abs/2108.12961
+- Code: None
+- Dataset: None
+
 **Webly Supervised Fine-Grained Recognition: Benchmark Datasets and An Approach**
 
 - Paper: https://arxiv.org/abs/2108.02399
