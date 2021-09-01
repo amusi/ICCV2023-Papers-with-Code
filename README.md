@@ -485,6 +485,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.10668
 - Code: None
 
+**MultiSiam: Self-supervised Multi-instance Siamese Representation Learning for Autonomous Driving**
+
+- Paper: https://arxiv.org/abs/2108.12178
+- Code: https://github.com/KaiChen1998/MultiSiam
+
 <a name="MLIR"></a>
 
 # Multi-Label Image Recognition(多标签图像识别)
