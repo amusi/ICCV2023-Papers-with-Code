@@ -620,6 +620,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.11264
 - Code: https://github.com/shjung13/Standardized-max-logits
 
+**ISNet: Integrate Image-Level and Semantic-Level Context for Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2108.12382
+- Code: https://github.com/SegmentationBLWX/sssegmentation
+
 ## Few-Shot语义分割
 
 **Learning Meta-class Memory for Few-Shot Semantic Segmentation**
