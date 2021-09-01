@@ -373,9 +373,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **BARF: Bundle-Adjusting Neural Radiance Fields**
 
 - Homepage: https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/
-
 - Paper(Oral): https://arxiv.org/abs/2104.06405
 - Code: https://github.com/chenhsuanlin/bundle-adjusting-NeRF
+
+**Self-Calibrating Neural Radiance Fields**
+
+- Paper: https://arxiv.org/abs/2108.13826
+- Code: https://github.com/POSTECH-CVLab/SCNeRF
 
 <a name="Loss"></a>
 
