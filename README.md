@@ -264,6 +264,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.12630
 - Code: https://github.com/xueyee/GroupFormer
 
+**Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction**
+
+- Paper: https://arxiv.org/abs/2109.00512
+
+- Code: https://github.com/facebookresearch/co3d
+- Dataset: https://github.com/facebookresearch/co3d
+
 <a name="Cool"></a>
 
 # 涨点神器
