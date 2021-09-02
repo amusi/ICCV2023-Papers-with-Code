@@ -67,6 +67,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [图像编辑(Image Editing)](#Image-Editing)
+- [三维重建(3D Reconstruction)](#3D-R)
 - [视频稳像(Video Stabilization)](#Video-Stabilization)
 - [细粒度识别(Fine-Grained Recognition)](#FGR)
 - [风格迁移(Style Transfer)](#Style-Transfer)
@@ -380,6 +381,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.13826
 - Code: https://github.com/POSTECH-CVLab/SCNeRF
+
+**Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction**
+
+- Paper: https://arxiv.org/abs/2109.00512
+
+- Code: https://github.com/facebookresearch/co3d
+- Dataset: https://github.com/facebookresearch/co3d
 
 <a name="Loss"></a>
 
@@ -1251,6 +1259,17 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - 代码: https://github.com/peterwang512/GANSketching
 
+<a name="3D-R"></a>
+
+# 三维重建(3D Reconstruction)
+
+**Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction**
+
+- Paper: https://arxiv.org/abs/2109.00512
+
+- Code: https://github.com/facebookresearch/co3d
+- Dataset: https://github.com/facebookresearch/co3d
+
 <a name="Video-Stabilization"></a>
 
 # 视频稳像(Video Stabilization)
@@ -1380,6 +1399,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction**
+
+- Paper: https://arxiv.org/abs/2109.00512
+
+- Code: https://github.com/facebookresearch/co3d
+- Dataset: https://github.com/facebookresearch/co3d
 
 **BioFors: A Large Biomedical Image Forensics Dataset**
 
