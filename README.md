@@ -392,9 +392,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction**
 
 - Paper: https://arxiv.org/abs/2109.00512
-
 - Code: https://github.com/facebookresearch/co3d
 - Dataset: https://github.com/facebookresearch/co3d
+
+**Neural Articulated Radiance Field**
+
+- Paper: https://arxiv.org/abs/2104.03110
+
+- Code: https://github.com/nogu-atsu/NARF
 
 <a name="Loss"></a>
 
