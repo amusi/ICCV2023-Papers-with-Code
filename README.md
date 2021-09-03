@@ -334,9 +334,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement**
 
 - Homepage: https://yuval-alaluf.github.io/restyle-encoder/
-
 - Paper: https://arxiv.org/abs/2104.02699
-- Code: https://github.com/yuval-alaluf/restyle-encoder：
+- Code: https://github.com/yuval-alaluf/restyle-encoder
+
+**StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**
+
+- Paper(Oral): https://arxiv.org/abs/2103.17249
+- Code: https://github.com/orpatashnik/StyleCLIP
 
 <a name="NAS"></a>
 
