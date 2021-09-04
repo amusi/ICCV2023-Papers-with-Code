@@ -1165,6 +1165,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 深度估计(Depth Estimation)
 
+**NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo**
+
+- Paper(Oral): https://arxiv.org/abs/2109.01129
+- Code: https://github.com/weiyithu/NerfingMVS
+
 ## 单目深度估计
 
 **MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**
