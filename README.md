@@ -402,8 +402,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Neural Articulated Radiance Field**
 
 - Paper: https://arxiv.org/abs/2104.03110
-
 - Code: https://github.com/nogu-atsu/NARF
+
+**NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo**
+
+- Paper(Oral): https://arxiv.org/abs/2109.01129
+- Code: https://github.com/weiyithu/NerfingMVS
 
 <a name="Loss"></a>
 
