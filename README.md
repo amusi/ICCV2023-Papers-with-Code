@@ -796,6 +796,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.03637
 - Code: https://github.com/ZikunZhou/SAOT.git
 
+## RGBD 目标跟踪
+
+**DepthTrack: Unveiling the Power of RGBD Tracking**
+
+- Paper: https://arxiv.org/abs/2108.13962
+- Code: https://github.com/xiaozai/DeT
+- Dataset: https://github.com/xiaozai/DeT
+
 <a name="3D-Point-Cloud"></a>
 
 # 3D Point Cloud
@@ -1424,6 +1432,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**DepthTrack: Unveiling the Power of RGBD Tracking**
+
+- Paper: https://arxiv.org/abs/2108.13962
+- Code: https://github.com/xiaozai/DeT
+- Dataset: https://github.com/xiaozai/DeT
 
 **Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction**
 
