@@ -848,6 +848,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.11127
 - Code: https://github.com/zongdai/AutoShape
 
+**4D-Net for Learned Multi-Modal Alignment**
+
+- Paper: https://arxiv.org/abs/2109.01066
+- Code: None
+
 <a name="Point-Cloud-Semantic-Segmentation"></a>
 
 ## 3D Semantic Segmentation(3D语义分割)
