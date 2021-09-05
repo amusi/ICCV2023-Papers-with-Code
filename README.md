@@ -661,6 +661,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.12382
 - Code: https://github.com/SegmentationBLWX/sssegmentation
 
+## 无监督域自适应语义分割(Unsupervised Domain Ddaption Semantic Segmentation)
+
+**Multi-Anchor Active Domain Adaptation for Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2108.08012
+- Code: https://github.com/munanning/MADA
+
+论文下载链接：https://arxiv.org/abs/2108.08012
+
 ## Few-Shot语义分割
 
 **Learning Meta-class Memory for Few-Shot Semantic Segmentation**
