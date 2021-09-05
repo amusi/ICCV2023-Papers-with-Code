@@ -1393,8 +1393,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Deep Relational Metric Learning**
 
 - Paper: https://arxiv.org/abs/2108.10026
-
 - Code: https://github.com/zbr17/DRML
+
+**Towards Interpretable Deep Metric Learning with Structural Matching**
+
+- Paper: https://arxiv.org/abs/2108.05889
+- Code: https://github.com/wl-zhao/DIML
 
 <a name="UDA"></a>
 
