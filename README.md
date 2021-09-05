@@ -519,6 +519,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.12178
 - Code: https://github.com/KaiChen1998/MultiSiam
 
+**Spatio-temporal Self-Supervised Representation Learning for 3D Point Clouds**
+
+- Homepage: https://siyuanhuang.com/STRL/
+- Paper: https://arxiv.org/abs/2109.00179
+
+- Code: https://github.com/yichen928/STRL
+
 <a name="MLIR"></a>
 
 # Multi-Label Image Recognition(多标签图像识别)
@@ -808,6 +815,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="3D-Point-Cloud"></a>
 
 # 3D Point Cloud
+
+**Spatio-temporal Self-Supervised Representation Learning for 3D Point Clouds**
+
+- Homepage: https://siyuanhuang.com/STRL/
+- Paper: https://arxiv.org/abs/2109.00179
+
+- Code: https://github.com/yichen928/STRL
 
 **Unsupervised Point Cloud Pre-Training via View-Point Occlusion, Completion**
 
