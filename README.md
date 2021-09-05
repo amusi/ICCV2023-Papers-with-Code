@@ -1532,7 +1532,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 其他(Others)
 
-- Now the project has been added, thanks for sharingPaper: https://arxiv.org/abs/2108.08487
+**Pri3D: Can 3D Priors Help 2D Representation Learning?**
+
+- Paper: https://arxiv.org/abs/2104.11225
+- Code: https://github.com/Sekunde/Pri3D
+
+**Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain**
+
+- Paper: https://arxiv.org/abs/2108.08487
 - Code: https://github.com/iCGY96/APR 
 
 **Continual Learning for Image-Based Camera Localization**
