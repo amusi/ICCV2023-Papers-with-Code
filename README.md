@@ -41,6 +41,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Point Cloud Denoising(点云去噪)](#Point-Cloud-Denoising)
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [Point Cloud Completion(点云补全)](#PCC)
+- [雷达语义分割(Radar Semantic Segmentation)](#RSS)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [去噪(Denoising)](#Denoising)
 - [去模糊(Deblurring)](#Deblurring)
@@ -942,6 +943,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.04444
 - Code: https://github.com/AllenXiangX/SnowflakeNet
+
+<a name="RSS"></a>
+
+# 雷达语义分割(Radar Semantic Segmentation)
+
+**Multi-View Radar Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2103.16214
+- Code: https://github.com/valeoai/MVRSS
 
 <a name="Super-Resolution"></a>
 
