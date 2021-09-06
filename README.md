@@ -1308,6 +1308,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2012.11717
 - Code: https://github.com/vita-epfl/social-nce
 
+**Safety-aware Motion Prediction with Unseen Vehicles for Autonomous Driving**
+
+- Paper: https://arxiv.org/abs/2109.01510
+- Code: https://github.com/xrenaa/Safety-Aware-Motion-Prediction
+
 <a name="Anomaly-Detection"></a>
 
 # 异常检测(Anomaly Detection)
