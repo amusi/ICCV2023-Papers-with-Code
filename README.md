@@ -665,7 +665,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 **Multi-Anchor Active Domain Adaptation for Semantic Segmentation**
 
-- Paper: https://arxiv.org/abs/2108.08012
+- Paper(Oral): https://arxiv.org/abs/2108.08012
 - Code: https://github.com/munanning/MADA
 
 论文下载链接：https://arxiv.org/abs/2108.08012
@@ -994,6 +994,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper(Oral): https://arxiv.org/abs/2108.08286
 - Code: None
+
+**Dual-Camera Super-Resolution with Aligned Attention Modules**
+
+- Homepage: https://tengfei-wang.github.io/Dual-Camera-SR/index.html
+- Paper: https://arxiv.org/abs/2109.01349
+- Code: https://github.com/Tengfei-Wang/DualCameraSR
 
 <a name="Denoising"></a>
 
