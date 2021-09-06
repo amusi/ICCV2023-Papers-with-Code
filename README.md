@@ -1000,6 +1000,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://tengfei-wang.github.io/Dual-Camera-SR/index.html
 - Paper: https://arxiv.org/abs/2109.01349
 - Code: https://github.com/Tengfei-Wang/DualCameraSR
+- Dataset: https://tengfei-wang.github.io/Dual-Camera-SR/index.html
 
 <a name="Denoising"></a>
 
@@ -1480,6 +1481,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Dual-Camera Super-Resolution with Aligned Attention Modules**
+
+- Homepage: https://tengfei-wang.github.io/Dual-Camera-SR/index.html
+- Paper: https://arxiv.org/abs/2109.01349
+- Code: https://github.com/Tengfei-Wang/DualCameraSR
+- Dataset: https://tengfei-wang.github.io/Dual-Camera-SR/index.html
 
 **DepthTrack: Unveiling the Power of RGBD Tracking**
 
