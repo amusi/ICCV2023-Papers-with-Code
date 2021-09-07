@@ -136,6 +136,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.05894
 - Code: https://github.com/liyunsheng13/micronet
 
+**Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**
+
+- Paper: https://arxiv.org/abs/2102.01063
+- Code: https://github.com/idstcv/ZenNAS
+
 <a name="Transformer"></a>
 
 # Visual Transformer
@@ -366,6 +371,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.07375
 - Code: https://github.com/bychen515/BNNAS
+
+**Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition**
+
+- Paper: https://arxiv.org/abs/2102.01063
+- Code: https://github.com/idstcv/ZenNAS
 
 <a name="NeRF"></a>
 
