@@ -276,6 +276,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2109.02497
 - Code: None
 
+**3D Human Texture Estimation from a Single Image with Transformers**
+
+- Homepage: https://www.mmlab-ntu.com/project/texformer/
+- Paper(Oral): https://arxiv.org/abs/2109.02563
+- Code: None
+
 <a name="Cool"></a>
 
 # 涨点神器
