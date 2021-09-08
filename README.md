@@ -47,6 +47,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [去模糊(Deblurring)](#Deblurring)
 - [阴影去除(Shadow Removal)](Shadow-Removal)
 - [视频插帧(Video Frame Interpolation)](#VFI)
+- [视频修复/补全(Video Inpainting)](#Video-Inpainting)
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [3D人头重建(3D Head Reconstruction)](#3D-Head-Reconstruction)
@@ -286,6 +287,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://www.mmlab-ntu.com/project/texformer/
 - Paper(Oral): https://arxiv.org/abs/2109.02563
 - Code: None
+
+**FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting**
+
+- Paper: https://arxiv.org/abs/2109.02974
+- Code: https://github.com/ruiliu-ai/FuseFormer
 
 <a name="Cool"></a>
 
@@ -1078,6 +1084,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.06815
 - Code: https://github.com/JunHeum/ABME
+
+<a name="Video-Inpainting"></a>
+
+# 视频修复/补全(Video Inpainting)
+
+**FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting**
+
+- Paper: https://arxiv.org/abs/2109.02974
+- Code: https://github.com/ruiliu-ai/FuseFormer
 
 <a name="Re-ID"></a>
 
