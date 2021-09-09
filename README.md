@@ -59,6 +59,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [手语识别(Sign Language Recognition)](#SLR)
 - [文本检测(Text Detection)](#Text-Detection)
 - [文本识别(Text Recognition)](#Text-Recognition)
+- [文本替换(Text Repalcement)](#TR)
 - [视觉问答(Visual Question Answering, VQA)](#Visual-Question-Answering)
 - [对抗攻击(Adversarial Attack)](#Adversarial-Attack)
 - [深度估计(Depth Estimation)](#Depth-Estimation)
@@ -1236,6 +1237,18 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.12090
 - Code: None
 
+<a name="TR"></a>
+
+# 文本替换(Text Replacement)
+
+**STRIVE: Scene Text Replacement In Videos**
+
+- Homepage: https://striveiccv2021.github.io/STRIVE-ICCV2021/
+- Paper: https://arxiv.org/abs/2109.02762
+- Code: https://github.com/striveiccv2021/STRIVE-ICCV2021/
+
+- Datasets: https://github.com/striveiccv2021/STRIVE-ICCV2021/
+
 <a name="Visual-Question-Answering"></a>
 
 # 视觉问答(Visual Question Answering, VQA)
@@ -1532,6 +1545,14 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**STRIVE: Scene Text Replacement In Videos**
+
+- Homepage: https://striveiccv2021.github.io/STRIVE-ICCV2021/
+- Paper: https://arxiv.org/abs/2109.02762
+- Code: https://github.com/striveiccv2021/STRIVE-ICCV2021/
+
+- Datasets: https://github.com/striveiccv2021/STRIVE-ICCV2021/
 
 **Real-world Video Super-resolution: A Benchmark Dataset and A Decomposition based Learning Scheme**
 
