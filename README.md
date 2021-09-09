@@ -1033,6 +1033,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Code: https://github.com/Tengfei-Wang/DualCameraSR
 - Dataset: https://tengfei-wang.github.io/Dual-Camera-SR/index.html
 
+**Real-world Video Super-resolution: A Benchmark Dataset and A Decomposition based Learning Scheme**
+
+- Paper: https://www4.comp.polyu.edu.hk/~cslzhang/paper/ICCV21_RealVSR.pdf
+- Code: https://github.com/IanYeung/RealVSR
+- Dataset: https://github.com/IanYeung/RealVSR
+
 <a name="Denoising"></a>
 
 # 去噪(Denoising)
@@ -1526,6 +1532,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**Real-world Video Super-resolution: A Benchmark Dataset and A Decomposition based Learning Scheme**
+
+- Paper: https://www4.comp.polyu.edu.hk/~cslzhang/paper/ICCV21_RealVSR.pdf
+- Code: https://github.com/IanYeung/RealVSR
+- Dataset: https://github.com/IanYeung/RealVSR
 
 **Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes**
 
