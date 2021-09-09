@@ -1,4 +1,4 @@
-# Now the project has been added, thanks for sharingICCV2021-Papers-with-Code
+# ICCV2021-Papers-with-Code
 
 [ICCV 2021](http://iccv2021.thecvf.com/) 论文和开源项目合集(papers with code)！
 
@@ -1599,6 +1599,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**YouRefIt: Embodied Reference Understanding with Language and Gesture**
+
+- Paper: https://arxiv.org/abs/2109.03413
+- Code: None
 
 **Pri3D: Can 3D Priors Help 2D Representation Learning?**
 
