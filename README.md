@@ -308,6 +308,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.02451
 - Code: https://github.com/zh460045050/SNL_ICCV2021
 
+**Towards Learning Spatially Discriminative Feature Representations** 
+
+- Paper: https://arxiv.org/abs/2109.01359
+- Code: None
+
 <a name="GAN"></a>
 
 # GAN
