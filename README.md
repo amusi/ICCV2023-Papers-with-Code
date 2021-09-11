@@ -1639,6 +1639,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 其他(Others)
 
+**NEAT: Neural Attention Fields for End-to-End Autonomous Driving**
+
+- Paper: https://arxiv.org/abs/2109.04456
+- https://github.com/autonomousvision/neat
+
 **Keep CALM and Improve Visual Feature Attribution**
 
 - Paper: https://arxiv.org/abs/2106.07861
