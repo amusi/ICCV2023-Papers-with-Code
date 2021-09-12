@@ -914,6 +914,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2109.02497
 - Code: None
 
+**Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2109.02499
+- Code: None
+
 <a name="Point-Cloud-Semantic-Segmentation"></a>
 
 ## 3D Semantic Segmentation(3D语义分割)
