@@ -78,6 +78,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [特征匹配(Feature Matching)](#FM)
 - [语义对应(Semantic Correspondence)](#Semantic-Correspondence)
 - [边缘检测(Edge Detection)](#Edge-Detection)
+- [相机标定(Camera Calibration)](#Camera-Calibration)
 - [图像质量评估(Image Quality Assessment)](#IQA)
 - [度量学习(Metric Learning)](#ML)
 - [Unsupervised Domain Adaptation](#UDA)
@@ -293,6 +294,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2109.02974
 - Code: https://github.com/ruiliu-ai/FuseFormer
+
+**CTRL-C: Camera calibration TRansformer with Line-Classification**
+
+- Paper: https://arxiv.org/abs/2109.02259
+- Code: https://github.com/jwlee-vcl/CTRL-C
 
 <a name="Cool"></a>
 
@@ -1490,6 +1496,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.07009
 - Code: https://github.com/zhuoinoulu/pidinet
+
+<a name="Camera-Calibration"></a>
+
+# 相机标定(Camera calibration)
+
+**CTRL-C: Camera calibration TRansformer with Line-Classification**
+
+- Paper: https://arxiv.org/abs/2109.02259
+- Code: https://github.com/jwlee-vcl/CTRL-C
 
 <a name="IQA"></a>
 
