@@ -55,6 +55,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [人脸表情识别(Facial Expression Recognition)](#FER)
 - [行为识别(Action Recognition)](#Action-Recognition)
 - [时序动作定位(Temporal Action Localization)](#Temporal-Action-Localization)
+- [动作检测(Action Detection)](Action-Detection)
 - [群体活动识别(Group Activity Recognition)](#GAR)
 - [手语识别(Sign Language Recognition)](#SLR)
 - [文本检测(Text Detection)](#Text-Detection)
@@ -1215,6 +1216,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Enriching Local and Global Contexts for Temporal Action Localization**
 
 - Paper: https://arxiv.org/abs/2107.12960
+- Code: None
+
+<a name="Action-Detection"></a>
+
+# 动作检测(Action Detection)
+
+**Class Semantics-based Attention for Action Detection**
+
+- Paper: https://arxiv.org/abs/2109.02613
 - Code: None
 
 <a name="GAR"></a>
