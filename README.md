@@ -71,6 +71,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [图像编辑(Image Editing)](#Image-Editing)
+- [图像检索(Image Retrieval)](#Image-Retrieval)
 - [三维重建(3D Reconstruction)](#3D-R)
 - [视频稳像(Video Stabilization)](#Video-Stabilization)
 - [细粒度识别(Fine-Grained Recognition)](#FGR)
@@ -562,8 +563,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Homepage: https://siyuanhuang.com/STRL/
 - Paper: https://arxiv.org/abs/2109.00179
-
 - Code: https://github.com/yichen928/STRL
+
+**Self-supervised Product Quantization for Deep Unsupervised Image Retrieval**
+
+- Paper: https://arxiv.org/abs/2109.02244
+- Code: https://github.com/youngkyunJang/SPQ
 
 <a name="MLIR"></a>
 
@@ -1424,8 +1429,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Homepage: https://peterwang512.github.io/GANSketching/
 - Paper: https://arxiv.org/abs/2108.02774
-
 - 代码: https://github.com/peterwang512/GANSketching
+
+<a name="Image-Retrieva"></a>
+
+# 图像检索(Image Retrieval)
+
+**Self-supervised Product Quantization for Deep Unsupervised Image Retrieval**
+
+- Paper: https://arxiv.org/abs/2109.02244
+- Code: https://github.com/youngkyunJang/SPQ
 
 <a name="3D-R"></a>
 
