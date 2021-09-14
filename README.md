@@ -642,7 +642,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **Reconcile Prediction Consistency for Balanced Object Detection**
 
 - Paper: https://arxiv.org/abs/2108.10809
-- Code: None 
+
+- Code: None
+
+**Mutual Supervision for Dense Object Detection**
+
+- Paper: https://arxiv.org/abs/2109.05986
+- Code: https://github.com/MCG-NJU/MuSu-Detection
 
 ## 半监督目标检测
 
