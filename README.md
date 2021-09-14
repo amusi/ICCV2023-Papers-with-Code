@@ -49,6 +49,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [视频插帧(Video Frame Interpolation)](#VFI)
 - [视频修复/补全(Video Inpainting)](#Video-Inpainting)
 - [行人重识别(Person Re-identification)](#Re-ID)
+- [行人搜索(Person Search)](#Person-Search)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
 - [3D人头重建(3D Head Reconstruction)](#3D-Head-Reconstruction)
 - [人脸识别(Face Recognition)](#FR)
@@ -1143,6 +1144,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper(Oral): https://arxiv.org/abs/2108.02413
 - Code: https://github.com/SikaStar/IDM
+
+<a name="Person-Search"></a>
+
+# 行人搜索(Person Search)
+
+**Weakly Supervised Person Search with Region Siamese Networks**
+
+- Paper: https://arxiv.org/abs/2109.06109
+- Code: None
 
 <a name="Human-Pose-Estimation"></a>
 
