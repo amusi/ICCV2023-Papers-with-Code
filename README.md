@@ -42,6 +42,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [Point Cloud Registration(点云配准)](#Point-Cloud-Registration)
 - [Point Cloud Completion(点云补全)](#PCC)
 - [雷达语义分割(Radar Semantic Segmentation)](#RSS)
+- [图像恢复(Image Restoration)](#Image-Restoration)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [去噪(Denoising)](#Denoising)
 - [去模糊(Deblurring)](#Deblurring)
@@ -1036,6 +1037,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2103.16214
 - Code: https://github.com/valeoai/MVRSS
+
+<a name="Image-Restoration"></a>
+
+# 图像恢复(Image Restoration)
+
+**Dynamic Attentive Graph Learning for Image Restoration**
+
+- Paper: https://arxiv.org/abs/2109.06620
+- Code: https://github.com/jianzhangcs/DAGL
 
 <a name="Super-Resolution"></a>
 
