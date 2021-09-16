@@ -73,6 +73,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [异常检测(Anomaly Detection)](#Anomaly-Detection)
 - [场景图生成(Scene Graph Generation)](#Scene-Graph-Generation)
 - [图像编辑(Image Editing)](#Image-Editing)
+- [图像合成(Image Synthesis)](#Image-Synthesis)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [三维重建(3D Reconstruction)](#3D-R)
 - [视频稳像(Video Stabilization)](#Video-Stabilization)
@@ -379,6 +380,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper(Oral): https://arxiv.org/abs/2103.17249
 - Code: https://github.com/orpatashnik/StyleCLIP
+
+**Image Synthesis via Semantic Composition**
+
+- Homepage: https://shepnerd.github.io/scg/
+- Paper: https://arxiv.org/abs/2109.07053
+- Code: https://github.com/dvlab-research/SCGAN
 
 <a name="NAS"></a>
 
@@ -1456,6 +1463,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Homepage: https://peterwang512.github.io/GANSketching/
 - Paper: https://arxiv.org/abs/2108.02774
 - 代码: https://github.com/peterwang512/GANSketching
+
+<a name="Image-Synthesis"></a>
+
+# 图像合成(Image Synthesis)
+
+**Image Synthesis via Semantic Composition**
+
+- Homepage: https://shepnerd.github.io/scg/
+- Paper: https://arxiv.org/abs/2109.07053
+- Code: https://github.com/dvlab-research/SCGAN
 
 <a name="Image-Retrieva"></a>
 
