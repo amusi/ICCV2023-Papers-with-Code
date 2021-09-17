@@ -305,6 +305,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2109.02259
 - Code: https://github.com/jwlee-vcl/CTRL-C
 
+**An End-to-End Transformer Model for 3D Object Detection**
+
+- Homepage: https://facebookresearch.github.io/3detr/
+
+- Paper: https://arxiv.org/abs/2109.08141
+- Code: https://github.com/facebookresearch/3detr
+
 <a name="Cool"></a>
 
 # 涨点神器
@@ -945,6 +952,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2109.02499
 - Code: None
+
+**An End-to-End Transformer Model for 3D Object Detection**
+
+- Homepage: https://facebookresearch.github.io/3detr/
+
+- Paper: https://arxiv.org/abs/2109.08141
+- Code: https://github.com/facebookresearch/3detr
 
 <a name="Point-Cloud-Semantic-Segmentation"></a>
 
