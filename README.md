@@ -45,6 +45,8 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [去噪(Denoising)](#Denoising)
+- [医学图像去噪(Medical Image Denoising)](#Medical-Image-Denoising)
+
 - [去模糊(Deblurring)](#Deblurring)
 - [阴影去除(Shadow Removal)](Shadow-Removal)
 - [视频插帧(Video Frame Interpolation)](#VFI)
@@ -308,9 +310,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **An End-to-End Transformer Model for 3D Object Detection**
 
 - Homepage: https://facebookresearch.github.io/3detr/
-
 - Paper: https://arxiv.org/abs/2109.08141
 - Code: https://github.com/facebookresearch/3detr
+
+**Eformer: Edge Enhancement based Transformer for Medical Image Denoising**
+
+- Paper: https://arxiv.org/abs/2109.08044
+- Code: None
 
 <a name="Cool"></a>
 
@@ -1113,6 +1119,15 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.12841
 - Code: https://github.com/gistvision/DIP-denosing
+
+<a name="Medical-Image-Denoising"></a>
+
+# 医学图像去噪(Medical Image Denoising)
+
+**Eformer: Edge Enhancement based Transformer for Medical Image Denoising**
+
+- Paper: https://arxiv.org/abs/2109.08044
+- Code: None
 
 <a name="Deblurring"></a>
 
