@@ -318,6 +318,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2109.08044
 - Code: None
 
+**PnP-DETR: Towards Efficient Visual Analysis with Transformers**
+
+- Paper: https://arxiv.org/abs/2109.07036
+- Code: https://github.com/twangnh/pnp-detr
+
 <a name="Cool"></a>
 
 # 涨点神器
@@ -671,6 +676,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2109.05986
 - Code: https://github.com/MCG-NJU/MuSu-Detection
+
+**PnP-DETR: Towards Efficient Visual Analysis with Transformers**
+
+- Paper: https://arxiv.org/abs/2109.07036
+- Code: https://github.com/twangnh/pnp-detr
 
 ## 半监督目标检测
 
