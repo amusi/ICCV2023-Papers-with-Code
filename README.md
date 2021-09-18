@@ -1666,6 +1666,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 数据集(Datasets)
 
+**Panoptic Narrative Grounding**
+
+- Homepage: https://bcv-uniandes.github.io/panoptic-narrative-grounding/
+- Paper(Oral): https://arxiv.org/abs/2109.04988
+- Code: https://github.com/BCV-Uniandes/PNG
+- Dataset: https://github.com/BCV-Uniandes/PNG
+
 **STRIVE: Scene Text Replacement In Videos**
 
 - Homepage: https://striveiccv2021.github.io/STRIVE-ICCV2021/
@@ -1761,8 +1768,10 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 **Panoptic Narrative Grounding**
 
+- Homepage: https://bcv-uniandes.github.io/panoptic-narrative-grounding/
 - Paper(Oral): https://arxiv.org/abs/2109.04988
 - Code: https://github.com/BCV-Uniandes/PNG
+- Dataset: https://github.com/BCV-Uniandes/PNG
 
 **NEAT: Neural Attention Fields for End-to-End Autonomous Driving**
 
