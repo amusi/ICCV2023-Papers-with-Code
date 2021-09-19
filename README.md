@@ -1233,6 +1233,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.13788
 - Code: https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows
 
+**Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images**
+
+- Paper: https://arxiv.org/abs/2109.05885
+- Code: None
+
 <a name="3D-Head-Reconstruction"></a>
 
 # 3D人头重建(3D Head Reconstruction)
