@@ -1607,6 +1607,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.07009
 - Code: https://github.com/zhuoinoulu/pidinet
 
+**RINDNet: Edge Detection for Discontinuity in Reflectance, Illumination, Normal and Depth**
+
+- Paper: https://arxiv.org/abs/2108.00616
+- Code : https://github.com/MengyangPu/RINDNet
+- Dataset: https://github.com/MengyangPu/RINDNet
+
 <a name="Camera-Calibration"></a>
 
 # 相机标定(Camera calibration)
@@ -1680,6 +1686,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**RINDNet: Edge Detection for Discontinuity in Reflectance, Illumination, Normal and Depth**
+
+- Paper: https://arxiv.org/abs/2108.00616
+- Code : https://github.com/MengyangPu/RINDNet
+- Dataset: https://github.com/MengyangPu/RINDNet
 
 **Panoptic Narrative Grounding**
 
