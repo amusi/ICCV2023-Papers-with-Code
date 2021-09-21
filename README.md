@@ -972,9 +972,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 **An End-to-End Transformer Model for 3D Object Detection**
 
 - Homepage: https://facebookresearch.github.io/3detr/
-
 - Paper: https://arxiv.org/abs/2109.08141
 - Code: https://github.com/facebookresearch/3detr
+
+**RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.10039
+- Code: https://github.com/TuSimple/RangeDet
 
 <a name="Point-Cloud-Semantic-Segmentation"></a>
 
