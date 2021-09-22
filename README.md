@@ -46,7 +46,6 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [超分辨率(Super-Resolution)](#Super-Resolution)
 - [去噪(Denoising)](#Denoising)
 - [医学图像去噪(Medical Image Denoising)](#Medical-Image-Denoising)
-
 - [去模糊(Deblurring)](#Deblurring)
 - [阴影去除(Shadow Removal)](Shadow-Removal)
 - [视频插帧(Video Frame Interpolation)](#VFI)
@@ -54,6 +53,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - [行人重识别(Person Re-identification)](#Re-ID)
 - [行人搜索(Person Search)](#Person-Search)
 - [2D/3D人体姿态估计(2D/3D Human Pose Estimation)](#Human-Pose-Estimation)
+- [6D位姿估计(6D Object Pose Estimation)](#6D-Object)
 - [3D人头重建(3D Head Reconstruction)](#3D-Head-Reconstruction)
 - [人脸识别(Face Recognition)](#FR)
 - [人脸表情识别(Facial Expression Recognition)](#FER)
@@ -1242,6 +1242,16 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2109.05885
 - Code: None
 
+<a name="6D-Object"></a>
+
+# 6D位姿估计(6D Object Pose Estimation)
+
+**StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation**
+
+- Paper: https://arxiv.org/abs/2109.10115
+- Code: None
+- Dataset: None
+
 <a name="3D-Head-Reconstruction"></a>
 
 # 3D人头重建(3D Head Reconstruction)
@@ -1690,6 +1700,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+
+**StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation**
+
+- Paper: https://arxiv.org/abs/2109.10115
+- Code: None
+- Dataset: None
 
 **RINDNet: Edge Detection for Discontinuity in Reflectance, Illumination, Normal and Depth**
 
