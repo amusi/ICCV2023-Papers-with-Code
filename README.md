@@ -1813,6 +1813,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 其他(Others)
 
+**ReconfigISP: Reconfigurable Camera Image Processing Pipeline**
+
+- Paper: https://arxiv.org/abs/2109.04760
+- Code: None
+
 **Panoptic Narrative Grounding**
 
 - Homepage: https://bcv-uniandes.github.io/panoptic-narrative-grounding/
