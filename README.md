@@ -832,6 +832,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 视频目标分割(Video Object Segmentation)
 
+**Hierarchical Memory Matching Network for Video Object Segmentation**
+
+- Paper: https://arxiv.org/abs/2109.11404
+- Code: https://github.com/Hongje/HMMN
+
 **Full-Duplex Strategy for Video Object Segmentation**
 
 - Homepage: http://dpfan.net/FSNet/
