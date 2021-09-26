@@ -1399,6 +1399,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 深度估计(Depth Estimation)
 
+**Augmenting Depth Estimation with Geospatial Context**
+
+- Paper: https://arxiv.org/abs/2109.09879
+- Code: None
+
 **NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo**
 
 - Paper(Oral): https://arxiv.org/abs/2109.01129
