@@ -682,6 +682,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2109.07036
 - Code: https://github.com/twangnh/pnp-detr
 
+**Deep Structured Instance Graph for Distilling Object Detectors**
+
+- Paper: https://arxiv.org/abs/2109.12862
+
+- Code: https://github.com/dvlab-research/Dsig
+
 ## 半监督目标检测
 
 **End-to-End Semi-Supervised Object Detection with Soft Teacher**
