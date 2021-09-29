@@ -477,6 +477,17 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2109.01129
 - Code: https://github.com/weiyithu/NerfingMVS
 
+**SNARF: Differentiable Forward Skinning for Animating Non-rigid Neural Implicit Shapes**
+
+- Homepage: https://xuchen-ethz.github.io/snarf
+- Paper: https://arxiv.org/abs/2104.03953
+- Code: https://github.com/xuchen-ethz/snarf
+
+**CodeNeRF: Disentangled Neural Radiance Fields for Object Categories**
+
+- Paper: https://arxiv.org/abs/2109.01750
+- Code: https://github.com/wayne1123/code-nerf
+
 <a name="Loss"></a>
 
 # Loss
