@@ -1840,6 +1840,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 其他(Others)
 
+**CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations**
+
+- Paper: https://arxiv.org/abs/2109.14910
+- Code: None
+
 **ReconfigISP: Reconfigurable Camera Image Processing Pipeline**
 
 - Paper: https://arxiv.org/abs/2109.04760
