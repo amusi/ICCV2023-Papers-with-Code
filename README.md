@@ -512,6 +512,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.10809
 - Code: None 
 
+**Influence-Balanced Loss for Imbalanced Visual Classification**
+
+- Paper: https://arxiv.org/abs/2110.02444
+- Code: https://github.com/pseulki/IB-Loss
+
 <a name="Zero-Shot-Learning"></a>
 
 # Zero-Shot Learning
@@ -548,6 +553,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2107.12028
 - Code: https://github.com/jiequancui/Parametric-Contrastive-Learning
+
+**Influence-Balanced Loss for Imbalanced Visual Classification**
+
+- Paper: https://arxiv.org/abs/2110.02444
+- Code: https://github.com/pseulki/IB-Loss
 
 <a name="VL"></a>
 
