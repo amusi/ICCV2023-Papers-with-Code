@@ -760,6 +760,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.12382
 - Code: https://github.com/SegmentationBLWX/sssegmentation
 
+**Scaling up instance annotation via label propagation**
+
+- Homepage: http://scaling-anno.csail.mit.edu/
+- Paper: https://arxiv.org/abs/2110.02277
+- Code: None
+
 ## 无监督域自适应语义分割(Unsupervised Domain Ddaption Semantic Segmentation)
 
 **Multi-Anchor Active Domain Adaptation for Semantic Segmentation**
@@ -835,6 +841,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.06747
 - Code: https://github.com/easton-cau/SOTR
+
+**Scaling up instance annotation via label propagation**
+
+- Homepage: http://scaling-anno.csail.mit.edu/
+- Paper: https://arxiv.org/abs/2110.02277
+- Code: None
 
 <a name="Medical-Image-Segmentation"></a>
 
