@@ -1719,7 +1719,7 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 **Seeking Similarities over Differences: Similarity-based Domain Alignment for Adaptive Object Detection**
 
-- Paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Rezaeianaran_Seeking_Similarities_Over_Differences_Similarity-Based_Domain_Alignment_for_Adaptive_Object_ICCV_2021_paper.pdf
+- Paper: https://arxiv.org/pdf/2110.01428.pdf
 - Code: https://github.com/frezaeix/VISGA_Public
 
 <a name="Video-Rescaling"></a>
