@@ -1024,6 +1024,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2103.10039
 - Code: https://github.com/TuSimple/RangeDet
 
+**Geometry-based Distance Decomposition for Monocular 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2104.03775
+- Code: https://github.com/Rock-100/MonoDet
+
 <a name="Point-Cloud-Semantic-Segmentation"></a>
 
 ## 3D Semantic Segmentation(3D语义分割)
