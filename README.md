@@ -1063,6 +1063,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2108.08035
 - Code: https://github.com/hrzhou2/AdaptConv-master
 
+**Perception-Aware Multi-Sensor Fusion for 3D LiDAR Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2106.15277
+
+- Code: https://github.com/ICEORY/PMF
+
 <a name="Point-Cloud-Instance-Segmentation"></a>
 
 ## 3D Instance Segmentation(3D实例分割)
