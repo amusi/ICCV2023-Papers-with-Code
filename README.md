@@ -1766,6 +1766,13 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 # 数据集(Datasets)
 
+**Beyond Road Extraction: A Dataset for Map Update using Aerial Images**
+
+- Homepage: https://favyen.com/muno21/
+- Paper: https://arxiv.org/abs/2110.04690
+
+- Code: https://github.com/favyen/muno21
+
 **StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation**
 
 - Paper: https://arxiv.org/abs/2109.10115
