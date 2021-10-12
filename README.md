@@ -323,6 +323,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2109.07036
 - Code: https://github.com/twangnh/pnp-detr
 
+**Transformer-based Dual Relation Graph for Multi-label Image Recognition**
+
+- Paper: https://arxiv.org/abs/2110.04722
+- Code: None
+
 <a name="Cool"></a>
 
 # 涨点神器
