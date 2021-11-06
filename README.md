@@ -1773,6 +1773,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2107.13467
 - Code: None
 
+**Seeking Similarities over Differences: Similarity-based Domain Alignment for Adaptive Object Detection**
+
+- Paper: https://arxiv.org/pdf/2110.01428.pdf
+- Code: https://github.com/frezaeix/VISGA_Public
+
 <a name="Video-Rescaling"></a>
 
 # Video Rescaling
