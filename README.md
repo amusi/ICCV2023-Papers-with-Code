@@ -493,6 +493,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2109.01750
 - Code: https://github.com/wayne1123/code-nerf
 
+**PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering**
+
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Ren_PIRenderer_Controllable_Portrait_Image_Generation_via_Semantic_Neural_Rendering_ICCV_2021_paper.html
+- Code: https://github.com/RenYurui/PIRender
+
 <a name="Loss"></a>
 
 # Loss
@@ -535,6 +540,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.09301
 - Code: https://arxiv.org/abs/2108.09301
+
+**Semantics Disentangling for Generalized Zero-Shot Learning**
+
+- Paper: https://arxiv.org/pdf/2101.07978
+- Code: https://github.com/uqzhichen/SDGZSL 
 
 <a name="Few-Shot-Learning"></a>
 
@@ -628,6 +638,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2109.02244
 - Code: https://github.com/youngkyunJang/SPQ
+
+**Self-Supervised Representation Learning from Flow Equivariance**
+
+- Paper: https://arxiv.org/abs/2101.06553
+- Code: None
 
 <a name="MLIR"></a>
 
@@ -1091,6 +1106,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.02350
 - Code: https://github.com/hustvl/HAIS
+
+**Instance Segmentation in 3D Scenes Using Semantic Superpoint Tree Networks**
+
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Liang_Instance_Segmentation_in_3D_Scenes_Using_Semantic_Superpoint_Tree_Networks_ICCV_2021_paper.html
+
+- Code: https://github.com/Gorilla-Lab-SCUT/SSTNet
 
 <a name="Point-Cloud-Multi-Object-Tracking"></a>
 
@@ -1903,6 +1924,18 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Photon-Starved Scene Inference using Single Photon Cameras**
+
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Goyal_Photon-Starved_Scene_Inference_Using_Single_Photon_Cameras_ICCV_2021_paper.pdf
+
+- Code: https://github.com/bhavyagoyal/spclowlight
+
+**Towards Flexible Blind JPEG Artifacts Removal**
+
+- Paper: https://arxiv.org/abs/2109.14573
+
+- Code: https://github.com/jiaxi-jiang/FBCNN
 
 **Generating Attribution Maps with Disentangled Masked Backpropagation**
 
