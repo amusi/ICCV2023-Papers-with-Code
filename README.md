@@ -550,6 +550,12 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2107.14053
 - Code: https://github.com/huang50213/AIM-Fewshot-Continual
 
+**Few Shot Visual Relationship Co-Localization**
+
+- Homepage: https://vl2g.github.io/projects/vrc/ 
+
+- Paper: https://arxiv.org/abs/2108.11618
+
 <a name="Long-tailed"></a>
 
 # 长尾(Long-tailed)
@@ -788,7 +794,10 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper(Oral): https://arxiv.org/abs/2108.08012
 - Code: https://github.com/munanning/MADA
 
-论文下载链接：https://arxiv.org/abs/2108.08012
+**Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation**
+
+- Homepage:  https://sites.google.com/view/sfdaseg
+- Paper: https://arxiv.org/abs/2108.11249
 
 ## Few-Shot语义分割
 
@@ -1559,6 +1568,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 - Paper: https://arxiv.org/abs/2109.01510
 - Code: https://github.com/xrenaa/Safety-Aware-Motion-Prediction
 
+**Where are you heading? Dynamic Trajectory Prediction with Expert Goal Examples**
+
+- Paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Where_Are_You_Heading_Dynamic_Trajectory_Prediction_With_Expert_Goal_ICCV_2021_paper.pdf
+- Code: https://github.com/JoeHEZHAO/expert_traj
+
 <a name="Anomaly-Detection"></a>
 
 # 异常检测(Anomaly Detection)
@@ -1709,6 +1723,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 
 - Paper: https://arxiv.org/abs/2108.05997
 - Code: https://github.com/google-research/google-research/tree/master/musiq
+
+**Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment**
+
+- Paper: https://arxiv.org/abs/2108.07948
+- Code: https://github.com/researchmm/CKDN 
 
 <a name="ML"></a>
 
@@ -1884,6 +1903,11 @@ ICCV 2021 收录论文IDs：https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1
 <a name="Others"></a>
 
 # 其他(Others)
+
+**Generating Attribution Maps with Disentangled Masked Backpropagation**
+
+- Paper: https://arxiv.org/abs/2101.06773
+- Code: https://gitlab.com/adriaruizo/dmbp_iccv21
 
 **CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations**
 
