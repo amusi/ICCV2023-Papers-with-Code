@@ -12,6 +12,10 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 >
 > [ICCV 2021](ICCV2021-Papers-with-Code.md)
 
+如果你想了解最新最优质的的CV论文、开源项目和学习资料，欢迎扫码加入【[CVer学术交流群](https://t.zsxq.com/10OGjThDw)】！互相学习，一起进步~
+
+![](https://github.com/amusi/CVPR2023-Papers-with-Code/raw/master/CVer%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4.png)
+
 # 【ICCV 2023 论文开源目录】
 
 - [Backbone](#Backbone)
@@ -44,6 +48,7 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - [参考图像分割(Referring Image Segmentation)](#RIS)
 - [图像抠图(Image Matting)](#Matting)
 - [图像编辑(Image Editing)](#Image-Editing)
+- [视频编辑(Video Editing)](#Video-Editing)
 - [Low-level Vision](#LLV)
 - [超分辨率(Super-Resolution)](#SR)
 - [去噪(Denoising)](#Denoising)
@@ -69,9 +74,17 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 **IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis**
 
 - Homepage: https://zju3dv.github.io/intrinsic_nerf/
-
 - Paper: https://arxiv.org/abs/2210.00647
 - Code: https://github.com/zju3dv/IntrinsicNeRF
+
+<a name="Diffusion"></a>
+
+# Diffusion Models(扩散模型)
+
+**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**
+
+- Paper: https://arxiv.org/abs/2306.15667
+- Code: https://github.com/facebookresearch/PoseDiffusion 
 
 <a name="Semantic-Segmentation"></a>
 
@@ -81,8 +94,22 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 
 - Homepage: https://segment-anything.com/
 - Paper: https://arxiv.org/abs/2304.02643
-
 - Code: https://github.com/facebookresearch/segment-anything
+
+**MARS: Model-agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2304.09913
+- Code: https://github.com/shjo-april/MARS 
+
+<a name="3D-Point-Cloud"></a>
+
+# 3D点云(3D Point Cloud)
+
+**Robo3D: Towards Robust and Reliable 3D Perception against Corruptions**
+
+- Homepage: https://ldkong.com/Robo3D
+- Paper: https://arxiv.org/abs/2303.17597
+- Code: https://github.com/ldkong1205/Robo3D
 
 <a name="3DOD"></a>
 
@@ -96,8 +123,23 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 **DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**
 
 - Paper: https://arxiv.org/abs/2304.13031
-
 - Code: https://github.com/AIR-DISCOVER/DQS3D
+
+**SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2304.14340
+
+- Code: https://github.com/yichen928/SparseFusion 
+
+<a name="3DSS"></a>
+
+# 3D语义分割(3D Semantic Segmentation)
+
+Rethinking Range View Representation for LiDAR Segmentation
+
+- Homepage: https://ldkong.com/RangeFormer
+- Paper: https://arxiv.org/abs/2303.05367
+- Code: None
 
 <a name="Video-Understanding"></a>
 
@@ -108,6 +150,16 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - Paper: https://arxiv.org/abs/2303.16058
 
 - Code: https://github.com/OpenGVLab/unmasked_teacher
+
+<a name="Video-Editing"></a>
+
+# 视频编辑(Video Editing)
+
+**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**
+
+- Project: https://fate-zero-edit.github.io/ 
+- Paper: https://arxiv.org/abs/2303.09535
+- Code: https://github.com/ChenyangQiQi/FateZero 
 
 <a name="Low-light-Image-Enhancement"></a>
 
