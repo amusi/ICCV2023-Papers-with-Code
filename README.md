@@ -67,6 +67,15 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - [视频理解(Video Understanding)](#Video-Understanding)
 - [低光照图像增强(Low-light Image Enhancement)](#Low-light-Image-Enhancement)
 
+<a name="Backbone"></a>
+
+# Backbone
+
+**Rethinking Mobile Block for Efficient Attention-based Models**
+
+- Paper: https://arxiv.org/abs/2301.01146
+- Code: https://github.com/zhangzjn/EMO 
+
 <a name="NeRF"></a>
 
 # NeRF
@@ -84,7 +93,22 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 **PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**
 
 - Paper: https://arxiv.org/abs/2306.15667
-- Code: https://github.com/facebookresearch/PoseDiffusion 
+- Code: https://github.com/facebookresearch/PoseDiffusion
+
+**FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**
+
+- Paper: https://arxiv.org/abs/2303.09833
+
+- Code: https://github.com/vvictoryuki/FreeDoM 
+
+<a name="Object-Detection"></a>
+
+# 目标检测(Object Detection)
+
+**Femtodet: an object detection baseline for energy versus performance tradeoffs**
+
+- Paper: https://arxiv.org/pdf/2301.06719.pdf
+- Code: https://github.com/yh-pengtu/FemtoDet 
 
 <a name="Semantic-Segmentation"></a>
 
@@ -99,7 +123,16 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 **MARS: Model-agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation**
 
 - Paper: https://arxiv.org/abs/2304.09913
-- Code: https://github.com/shjo-april/MARS 
+- Code: https://github.com/shjo-april/MARS
+
+<a name="VIS"></a>
+
+# 视频实例分割(Video Instance Segmentation)
+
+**DVIS: Decoupled Video Instance Segmentation Framework**
+
+- Paper: https://arxiv.org/abs/2306.03413
+- Code: https://github.com/zhang-tao-whu/DVIS 
 
 <a name="3D-Point-Cloud"></a>
 
@@ -128,8 +161,17 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 **SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection**
 
 - Paper: https://arxiv.org/abs/2304.14340
+- Code: https://github.com/yichen928/SparseFusion
 
-- Code: https://github.com/yichen928/SparseFusion 
+**StreamPETR: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2303.11926
+- Code: https://github.com/exiawsh/StreamPETR.git
+
+**Cross Modal Transformer: Towards Fast and Robust 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2301.01283
+- Code: https://github.com/junjie18/CMT.git 
 
 <a name="3DSS"></a>
 
@@ -150,6 +192,25 @@ Rethinking Range View Representation for LiDAR Segmentation
 - Paper: https://arxiv.org/abs/2303.16058
 
 - Code: https://github.com/OpenGVLab/unmasked_teacher
+
+<a name="Image-Generation"></a>
+
+# 图像生成(Image Generation)
+
+**FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**
+
+- Paper: https://arxiv.org/abs/2303.09833
+- Code: https://github.com/vvictoryuki/FreeDoM 
+
+<a name="Video-Generation"></a>
+
+# 视频生成(Video Generation)
+
+**Simulating Fluids in Real-World Still Images**
+
+- Homepage: https://slr-sfs.github.io/ 
+- Paper: https://arxiv.org/abs/2204.11335
+- Code: https://github.com/simon3dv/SLR-SFS
 
 <a name="Video-Editing"></a>
 
