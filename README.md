@@ -66,6 +66,7 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - [视频生成(Video Generation)](#Video-Generation)
 - [视频理解(Video Understanding)](#Video-Understanding)
 - [低光照图像增强(Low-light Image Enhancement)](#Low-light-Image-Enhancement)
+- [其它(Others)](#Others)
 
 <a name="Backbone"></a>
 
@@ -107,8 +108,22 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 
 **Femtodet: an object detection baseline for energy versus performance tradeoffs**
 
-- Paper: https://arxiv.org/pdf/2301.06719.pdf
-- Code: https://github.com/yh-pengtu/FemtoDet 
+- Paper: https://arxiv.org/abs/2301.06719
+- Code: https://github.com/yh-pengtu/FemtoDet
+
+**Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment**
+
+- Paper: https://arxiv.org/abs/2207.13085
+- Code: https://github.com/Atten4Vis/GroupDETR 
+
+<a name="VT"></a>
+
+# 目标跟踪(Visual Tracking)
+
+**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**
+
+- Paper: https://arxiv.org/abs/2307.04129
+- Code: https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker 
 
 <a name="Semantic-Segmentation"></a>
 
@@ -125,6 +140,11 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - Paper: https://arxiv.org/abs/2304.09913
 - Code: https://github.com/shjo-april/MARS
 
+**FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation**
+
+- Paper: https://arxiv.org/abs/2307.07245
+- Code: https://github.com/TY-Shi/FreeCOS 
+
 <a name="VIS"></a>
 
 # 视频实例分割(Video Instance Segmentation)
@@ -133,6 +153,15 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 
 - Paper: https://arxiv.org/abs/2306.03413
 - Code: https://github.com/zhang-tao-whu/DVIS 
+
+<a name="LLV"></a>
+
+# Low-level Vision
+
+**Self-supervised Learning to Bring Dual Reversed Rolling Shutter Images Alive**
+
+- Paper: https://arxiv.org/abs/2305.19862
+- Code: https://github.com/shangwei5/SelfDRSC 
 
 <a name="3D-Point-Cloud"></a>
 
@@ -171,17 +200,34 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 **Cross Modal Transformer: Towards Fast and Robust 3D Object Detection**
 
 - Paper: https://arxiv.org/abs/2301.01283
-- Code: https://github.com/junjie18/CMT.git 
+- Code: https://github.com/junjie18/CMT.git
+
+**MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation**
+
+- Paper: https://arxiv.org/abs/2304.09801
+- Project: https://chongjiange.github.io/metabev.html
+- Code: https://github.com/ChongjianGE/MetaBEV
+
+Thank you very much!
 
 <a name="3DSS"></a>
 
 # 3D语义分割(3D Semantic Segmentation)
 
-Rethinking Range View Representation for LiDAR Segmentation
+**Rethinking Range View Representation for LiDAR Segmentation**
 
 - Homepage: https://ldkong.com/RangeFormer
 - Paper: https://arxiv.org/abs/2303.05367
 - Code: None
+
+<a name="3D-Object-Tracking"></a>
+
+# 3D目标跟踪(3D Object Tracking)
+
+**MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors**
+
+- Paper: https://arxiv.org/abs/2303.05071
+- Code : https://github.com/slothfulxtx/MBPTrack3D
 
 <a name="Video-Understanding"></a>
 
@@ -230,3 +276,13 @@ Rethinking Range View Representation for LiDAR Segmentation
 
 - Paper: https://arxiv.org/abs/2303.11722
 - Code: https://github.com/Ysz2022/NeRCo
+
+<a name="Others"></a>
+
+# 其它(Others)
+
+**MotionBERT: A Unified Perspective on Learning Human Motion Representations**
+
+- Homepage: https://motionbert.github.io/
+- Paper: https://arxiv.org/abs/2210.06551
+- Code: https://github.com/Walter0807/MotionBERT 
