@@ -47,8 +47,6 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - [视频实例分割(Video Instance Segmentation)](#VIS)
 - [参考图像分割(Referring Image Segmentation)](#RIS)
 - [图像抠图(Image Matting)](#Matting)
-- [图像编辑(Image Editing)](#Image-Editing)
-- [视频编辑(Video Editing)](#Video-Editing)
 - [Low-level Vision](#LLV)
 - [超分辨率(Super-Resolution)](#SR)
 - [去噪(Denoising)](#Denoising)
@@ -64,9 +62,24 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - [医学图像(Medical Image)](#Medical-Image)
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
+- [图像编辑(Image Editing)](#Image-Editing)
+- [视频编辑(Video Editing)](#Video-Editing)
 - [视频理解(Video Understanding)](#Video-Understanding)
+- [人体运动生成(Human Motion Generation)](#Human-Motion-Generation)
 - [低光照图像增强(Low-light Image Enhancement)](#Low-light-Image-Enhancement)
+- [图像检索(Image Retrieval)](#Image-Retrieval)
+- [图像融合(Image Fusion)](#Image-Fusion)
 - [其它(Others)](#Others)
+
+<a name="Avatars"></a>
+
+# Avatars 
+
+**Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**
+
+Paper: https://arxiv.org/abs/2303.17606
+
+Code: https://github.com/songrise/AvatarCraft
 
 <a name="Backbone"></a>
 
@@ -87,6 +100,12 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - Paper: https://arxiv.org/abs/2210.00647
 - Code: https://github.com/zju3dv/IntrinsicNeRF
 
+**Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**
+
+Paper: https://arxiv.org/abs/2303.17606
+
+Code: https://github.com/songrise/AvatarCraft
+
 <a name="Diffusion"></a>
 
 # Diffusion Models(扩散模型)
@@ -99,8 +118,22 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**
 
 - Paper: https://arxiv.org/abs/2303.09833
+- Code: https://github.com/vvictoryuki/FreeDoM
 
-- Code: https://github.com/vvictoryuki/FreeDoM 
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**
+
+- Paper: https://arxiv.org/abs/2307.10816
+- Code: https://github.com/Sierkinhane/BoxDiff
+
+**BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction**
+
+- Paper: https://arxiv.org/abs/2211.14304
+- Code: https://github.com/BarqueroGerman/BeLFusion
+
+**DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion**
+
+- Paper: https://arxiv.org/abs/2303.06840
+- Code: https://github.com/Zhaozixiang1228/MMIF-DDFM 
 
 <a name="Object-Detection"></a>
 
@@ -208,7 +241,10 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - Project: https://chongjiange.github.io/metabev.html
 - Code: https://github.com/ChongjianGE/MetaBEV
 
-Thank you very much!
+**Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling**
+
+- Paper: https://arxiv.org/abs/2307.07944
+- Code: https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet 
 
 <a name="3DSS"></a>
 
@@ -246,7 +282,12 @@ Thank you very much!
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**
 
 - Paper: https://arxiv.org/abs/2303.09833
-- Code: https://github.com/vvictoryuki/FreeDoM 
+- Code: https://github.com/vvictoryuki/FreeDoM
+
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**
+
+- Paper: https://arxiv.org/abs/2307.10816
+- Code: https://github.com/Sierkinhane/BoxDiff 
 
 <a name="Video-Generation"></a>
 
@@ -258,6 +299,15 @@ Thank you very much!
 - Paper: https://arxiv.org/abs/2204.11335
 - Code: https://github.com/simon3dv/SLR-SFS
 
+<a name="Image-Editing"></a>
+
+# 图像编辑(Image Editing)
+
+**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**
+
+- Paper: https://arxiv.org/abs/2304.02051
+- Code: https://github.com/aimagelab/multimodal-garment-designer 
+
 <a name="Video-Editing"></a>
 
 # 视频编辑(Video Editing)
@@ -268,6 +318,15 @@ Thank you very much!
 - Paper: https://arxiv.org/abs/2303.09535
 - Code: https://github.com/ChenyangQiQi/FateZero 
 
+<a name="Human-Motion-Generation"></a>
+
+# 人体运动生成(Human Motion Generation)
+
+**BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction**
+
+- Paper: https://arxiv.org/abs/2211.14304
+- Code: https://github.com/BarqueroGerman/BeLFusion 
+
 <a name="Low-light-Image-Enhancement"></a>
 
 # 低光照图像增强(Low-light Image Enhancement)
@@ -276,6 +335,24 @@ Thank you very much!
 
 - Paper: https://arxiv.org/abs/2303.11722
 - Code: https://github.com/Ysz2022/NeRCo
+
+<a name="Image-Retrieval"></a>
+
+# 图像检索(Image Retrieval)
+
+**Zero-Shot Composed Image Retrieval with Textual Inversion**
+
+- Paper: https://arxiv.org/abs/2303.15247
+- Code: https://github.com/miccunifi/SEARLE 
+
+<a name="Image-Fusion"></a>
+
+# 图像融合(Image Fusion)
+
+**DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion**
+
+- Paper: https://arxiv.org/abs/2303.06840
+- Code: https://github.com/Zhaozixiang1228/MMIF-DDFM 
 
 <a name="Others"></a>
 
