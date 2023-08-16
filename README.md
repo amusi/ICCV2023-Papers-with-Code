@@ -81,6 +81,16 @@ Paper: https://arxiv.org/abs/2303.17606
 
 Code: https://github.com/songrise/AvatarCraft
 
+<a name="Vision Transformer"></a>
+
+# Vision Transformer
+
+**FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization**
+
+Paper: https://arxiv.org/abs/2303.14189
+
+Code: https://github.com/apple/ml-fastvit
+
 <a name="Backbone"></a>
 
 # Backbone
