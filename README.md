@@ -206,6 +206,15 @@ Code: https://github.com/songrise/AvatarCraft
 - Paper: https://arxiv.org/abs/2305.19862
 - Code: https://github.com/shangwei5/SelfDRSC 
 
+<a name="SR"></a>
+
+# Super Resolution
+
+**Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2211.13654
+- Code: https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR 
+
 <a name="3D-Point-Cloud"></a>
 
 # 3D点云(3D Point Cloud)
