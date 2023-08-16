@@ -212,7 +212,7 @@ Code: https://github.com/songrise/AvatarCraft
 
 **Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution**
 
-- Paper: https://arxiv.org/abs/2211.13654
+- Paper: https://arxiv.org/abs/2303.09650
 - Code: https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR 
 
 <a name="3D-Point-Cloud"></a>
