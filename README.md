@@ -81,6 +81,16 @@ Paper: https://arxiv.org/abs/2303.17606
 
 Code: https://github.com/songrise/AvatarCraft
 
+<a name="Vision Transformer"></a>
+
+# Vision Transformer
+
+**FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization**
+
+Paper: https://arxiv.org/abs/2303.14189
+
+Code: https://github.com/apple/ml-fastvit
+
 <a name="Backbone"></a>
 
 # Backbone
@@ -195,6 +205,15 @@ Code: https://github.com/songrise/AvatarCraft
 
 - Paper: https://arxiv.org/abs/2305.19862
 - Code: https://github.com/shangwei5/SelfDRSC 
+
+<a name="SR"></a>
+
+# Super Resolution
+
+**Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution**
+
+- Paper: https://arxiv.org/abs/2303.09650
+- Code: https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR 
 
 <a name="3D-Point-Cloud"></a>
 
