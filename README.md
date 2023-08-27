@@ -68,8 +68,11 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - [视频理解(Video Understanding)](#Video-Understanding)
 - [人体运动生成(Human Motion Generation)](#Human-Motion-Generation)
 - [低光照图像增强(Low-light Image Enhancement)](#Low-light-Image-Enhancement)
+- [场景文本识别(Scene Text Recognition)](#STR)
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [图像融合(Image Fusion)](#Image-Fusion)
+- [轨迹预测(Trajectory Prediction) ](#Trajectory-Prediction)
+- [Video Quality Assessment(视频质量评价)](#Video-Quality-Assessment)
 - [其它(Others)](#Others)
 
 <a name="Avatars"></a>
@@ -143,7 +146,12 @@ Code: https://github.com/songrise/AvatarCraft
 **DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion**
 
 - Paper: https://arxiv.org/abs/2303.06840
-- Code: https://github.com/Zhaozixiang1228/MMIF-DDFM 
+- Code: https://github.com/Zhaozixiang1228/MMIF-DDFM
+
+**DIRE for Diffusion-Generated Image Detection**
+
+- Paper: https://arxiv.org/abs/2303.09295
+- Code: https://github.com/ZhendongWang6/DIRE
 
 <a name="Object-Detection"></a>
 
@@ -157,7 +165,12 @@ Code: https://github.com/songrise/AvatarCraft
 **Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment**
 
 - Paper: https://arxiv.org/abs/2207.13085
-- Code: https://github.com/Atten4Vis/GroupDETR 
+- Code: https://github.com/Atten4Vis/GroupDETR
+
+**Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection**
+
+- Paper: https://arxiv.org/abs/2205.09613
+- Code: https://github.com/LiewFeng/imTED 
 
 <a name="VT"></a>
 
@@ -191,7 +204,13 @@ Code: https://github.com/songrise/AvatarCraft
 **Residual Pattern Learning for Pixel-wise Out-of-Distribution Detection in Semantic Segmentation**
 
 - Paper: https://arxiv.org/abs/2211.14512
-- Code link: https://github.com/yyliu01 
+- Code: https://github.com/yyliu01
+
+**Disentangle then Parse:Night-time Semantic Segmentation with Illumination Disentanglement**
+
+- Paper: https://arxiv.org/abs/2307.09362
+
+- Code: https://github.com/w1oves/DTP
 
 <a name="VIS"></a>
 
@@ -249,6 +268,11 @@ Code: https://github.com/songrise/AvatarCraft
 - Paper: https://arxiv.org/abs/2303.17597
 - Code: https://github.com/ldkong1205/Robo3D
 
+**Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models**
+
+- Paper: https://arxiv.org/abs/2304.07221
+- Code: https://github.com/zyh16143998882/ICCV23-IDPT
+
 <a name="3DOD"></a>
 
 # 3D目标检测(3D Object Detection)
@@ -287,7 +311,12 @@ Code: https://github.com/songrise/AvatarCraft
 **Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling**
 
 - Paper: https://arxiv.org/abs/2307.07944
-- Code: https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet 
+- Code: https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet
+
+**SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2307.11477
+- Code: https://github.com/mengtan00/SA-BEV
 
 <a name="3DSS"></a>
 
@@ -379,6 +408,21 @@ Code: https://github.com/songrise/AvatarCraft
 - Paper: https://arxiv.org/abs/2303.11722
 - Code: https://github.com/Ysz2022/NeRCo
 
+<a name="STD"></a>
+
+# 场景文本检测(Scene Text Detection)
+
+
+
+<a name="STR"></a>
+
+# 场景文本识别(Scene Text Recognition)
+
+**Self-supervised Character-to-Character Distillation for Text Recognition**
+
+- Paper: https://arxiv.org/abs/2211.00288
+- Code: https://github.com/TongkunGuan/CCD 
+
 <a name="Image-Retrieval"></a>
 
 # 图像检索(Image Retrieval)
@@ -395,7 +439,27 @@ Code: https://github.com/songrise/AvatarCraft
 **DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion**
 
 - Paper: https://arxiv.org/abs/2303.06840
-- Code: https://github.com/Zhaozixiang1228/MMIF-DDFM 
+- Code: https://github.com/Zhaozixiang1228/MMIF-DDFM
+
+<a name="Trajectory-Prediction"></a>
+
+# 轨迹预测(Trajectory Prediction)
+
+**EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting**
+
+- Homepage: https://inhwanbae.github.io/publication/eigentrajectory/
+
+- Paper: https://arxiv.org/abs/2307.09306 
+- Code: https://github.com/InhwanBae/EigenTrajectory
+
+<a name="Video-Quality-Assessment"></a>
+
+# Video Quality Assessment(视频质量评价)
+
+**Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives**
+
+- Paper: https://arxiv.org/abs/2211.04894
+- Code: https://github.com/VQAssessment/DOVER
 
 <a name="Others"></a>
 
