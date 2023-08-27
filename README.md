@@ -183,7 +183,12 @@ Code: https://github.com/songrise/AvatarCraft
 **Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection**
 
 - Paper: https://arxiv.org/abs/2205.09613
-- Code: https://github.com/LiewFeng/imTED 
+- Code: https://github.com/LiewFeng/imTED
+
+**ASAG: Building Strong One-Decoder-Layer Sparse Detectors via Adaptive Sparse Anchor Generation**
+
+- Paper: https://arxiv.org/abs/2308.09242
+- Code: https://github.com/iSEE-Laboratory/ASAG
 
 <a name="VT"></a>
 
@@ -294,6 +299,11 @@ Code: https://github.com/songrise/AvatarCraft
 
 - Paper: https://arxiv.org/abs/2304.07221
 - Code: https://github.com/zyh16143998882/ICCV23-IDPT
+
+**Point Contrastive Prediction with Semantic Clustering for Self-Supervised Learning on Point Cloud Videos**
+
+- Paper: https://arxiv.org/abs/2308.09247
+- Code: None
 
 <a name="3DOD"></a>
 
