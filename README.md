@@ -115,9 +115,22 @@ Code: https://github.com/songrise/AvatarCraft
 
 **Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**
 
-Paper: https://arxiv.org/abs/2303.17606
+- Paper: https://arxiv.org/abs/2303.17606
 
-Code: https://github.com/songrise/AvatarCraft
+- Code: https://github.com/songrise/AvatarCraft
+
+**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**
+
+- Homepage: https://shawn615.github.io/flipnerf/
+- Code: https://github.com/shawn615/FlipNeRF
+- Paper: https://arxiv.org/abs/2306.17723
+
+**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**
+
+- Homepage: https://wbhu.github.io/projects/Tri-MipRF
+
+- Paper: https://arxiv.org/abs/2307.11335
+- Code: https://github.com/wbhu/Tri-MipRF
 
 <a name="Diffusion"></a>
 
@@ -209,8 +222,17 @@ Code: https://github.com/songrise/AvatarCraft
 **Disentangle then Parse:Night-time Semantic Segmentation with Illumination Disentanglement**
 
 - Paper: https://arxiv.org/abs/2307.09362
-
 - Code: https://github.com/w1oves/DTP
+
+<a name="VOS"></a>
+
+# 视频目标分割(Video Object Segmentation)
+
+**Towards Robust Referring Video Object Segmentation with Cyclic Relational Consensus**
+
+- Paper: https://arxiv.org/abs/2207.01203 
+
+- Code: https://github.com/lxa9867/R2VOS
 
 <a name="VIS"></a>
 
@@ -421,7 +443,13 @@ Code: https://github.com/songrise/AvatarCraft
 **Self-supervised Character-to-Character Distillation for Text Recognition**
 
 - Paper: https://arxiv.org/abs/2211.00288
-- Code: https://github.com/TongkunGuan/CCD 
+- Code: https://github.com/TongkunGuan/CCD
+
+**MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition**
+
+- Paper: https://arxiv.org/abs/2305.14758
+- Code: https://github.com/simplify23/MRN
+- 中文解读：https://zhuanlan.zhihu.com/p/643948935 
 
 <a name="Image-Retrieval"></a>
 
@@ -470,3 +498,8 @@ Code: https://github.com/songrise/AvatarCraft
 - Homepage: https://motionbert.github.io/
 - Paper: https://arxiv.org/abs/2210.06551
 - Code: https://github.com/Walter0807/MotionBERT 
+
+**Graph Matching with Bi-level Noisy Correspondence**
+
+- Paper: https://arxiv.org/pdf/2212.04085.pdf
+- Code: https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON 
