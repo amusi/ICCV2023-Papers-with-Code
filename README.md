@@ -42,6 +42,7 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
+- [医学图像分类(Medical Image Classfication)](#MIC)
 - [医学图像分割(Medical Image Segmentation)](#MIS)
 - [视频目标分割(Video Object Segmentation)](#VOS)
 - [视频实例分割(Video Instance Segmentation)](#VIS)
@@ -89,6 +90,15 @@ Code: https://github.com/songrise/AvatarCraft
 
 - Paper: https://arxiv.org/abs/2301.01146
 - Code: https://github.com/zhangzjn/EMO 
+
+<a name="CLIP"></a>
+
+# CLIP
+
+**PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization**
+
+- Paper: https://arxiv.org/abs/2307.15199
+- Code: [https://PromptStyler.github.io/](https://promptstyler.github.io/)
 
 <a name="NeRF"></a>
 
@@ -176,7 +186,12 @@ Code: https://github.com/songrise/AvatarCraft
 **FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation**
 
 - Paper: https://arxiv.org/abs/2307.07245
-- Code: https://github.com/TY-Shi/FreeCOS 
+- Code: https://github.com/TY-Shi/FreeCOS
+
+**Residual Pattern Learning for Pixel-wise Out-of-Distribution Detection in Semantic Segmentation**
+
+- Paper: https://arxiv.org/abs/2211.14512
+- Code link: https://github.com/yyliu01 
 
 <a name="VIS"></a>
 
@@ -185,7 +200,26 @@ Code: https://github.com/songrise/AvatarCraft
 **DVIS: Decoupled Video Instance Segmentation Framework**
 
 - Paper: https://arxiv.org/abs/2306.03413
-- Code: https://github.com/zhang-tao-whu/DVIS 
+- Code: https://github.com/zhang-tao-whu/DVIS
+
+<a name="MIC"></a>
+
+# 医学图像分类
+
+**BoMD: Bag of Multi-label Descriptors for Noisy Chest X-ray Classification**
+
+- Paper: https://arxiv.org/abs/2203.01937
+
+- Code: https://github.com/cyh-0/BoMD
+
+<a name="MIS"></a>
+
+# 医学图像分割
+
+**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection**
+
+- Paper: https://arxiv.org/abs/2301.00785
+- Code: https://github.com/ljwztc/CLIP-Driven-Universal-Model
 
 <a name="LLV"></a>
 
@@ -195,6 +229,15 @@ Code: https://github.com/songrise/AvatarCraft
 
 - Paper: https://arxiv.org/abs/2305.19862
 - Code: https://github.com/shangwei5/SelfDRSC 
+
+<a name="SR"></a>
+
+# 超分辨率(Super-Resolution)
+
+**Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution.**
+
+- Paper: https://arxiv.org/abs/2303.08942
+- Code: https://github.com/Zhaozixiang1228/GDSR-SSDNet 
 
 <a name="3D-Point-Cloud"></a>
 
