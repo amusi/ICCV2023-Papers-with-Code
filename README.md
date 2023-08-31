@@ -72,6 +72,7 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - [图像检索(Image Retrieval)](#Image-Retrieval)
 - [图像融合(Image Fusion)](#Image-Fusion)
 - [轨迹预测(Trajectory Prediction) ](#Trajectory-Prediction)
+- [人群计数(Crowd Counting)](#Crowd-Counting)
 - [Video Quality Assessment(视频质量评价)](#Video-Quality-Assessment)
 - [其它(Others)](#Others)
 
@@ -102,6 +103,11 @@ Code: https://github.com/songrise/AvatarCraft
 
 - Paper: https://arxiv.org/abs/2307.15199
 - Code: [https://PromptStyler.github.io/](https://promptstyler.github.io/)
+
+**CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation**
+
+- Paper: https://arxiv.org/abs/2308.15226
+- Code: http://www.github.com/devaansh100/CLIPTrans
 
 <a name="NeRF"></a>
 
@@ -490,6 +496,15 @@ Code: https://github.com/songrise/AvatarCraft
 - Paper: https://arxiv.org/abs/2307.09306 
 - Code: https://github.com/InhwanBae/EigenTrajectory
 
+<a name="Crowd-Counting"></a>
+
+# 人群计数(Crowd Counting)
+
+**Point-Query Quadtree for Crowd Counting, Localization, and More**
+
+- Paper: https://arxiv.org/abs/2308.13814
+- Code: https://github.com/cxliu0/PET
+
 <a name="Video-Quality-Assessment"></a>
 
 # Video Quality Assessment(视频质量评价)
@@ -513,3 +528,8 @@ Code: https://github.com/songrise/AvatarCraft
 
 - Paper: https://arxiv.org/pdf/2212.04085.pdf
 - Code: https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON 
+
+**LDL: Line Distance Functions for Panoramic Localization**
+
+- Paper: https://arxiv.org/abs/2308.13989
+- Code: https://github.com/82magnolia/panoramic-localization
