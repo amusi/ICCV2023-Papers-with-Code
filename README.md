@@ -533,3 +533,9 @@ Code: https://github.com/songrise/AvatarCraft
 
 - Paper: https://arxiv.org/abs/2308.13989
 - Code: https://github.com/82magnolia/panoramic-localization
+
+**Active Neural Mapping**
+
+- Homepage: https://zikeyan.github.io/active-INR/index.html
+- Paper: https://arxiv.org/abs/2308.16246
+- Code: https://zikeyan.github.io/active-INR/index.html#
