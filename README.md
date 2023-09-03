@@ -30,6 +30,7 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 - [DETR](#DETR)
 - [Prompt](#Prompt)
 - [Diffusion Models(扩散模型)](#Diffusion)
+- [Prompt](#Prompt)
 - [Avatars](#Avatars)
 - [ReID(重识别)](#ReID)
 - [长尾分布(Long-Tail)](#Long-Tail)
@@ -171,6 +172,29 @@ Code: https://github.com/songrise/AvatarCraft
 
 - Paper: https://arxiv.org/abs/2303.09295
 - Code: https://github.com/ZhendongWang6/DIRE
+
+<a name="Prompt"></a>
+
+# Prompt
+
+**Read-only Prompt Optimization for Vision-Language Few-shot Learning** 
+
+- Paper: https://arxiv.org/abs/2308.14960
+- Code: https://github.com/mlvlab/RPO
+
+**Introducing Language Guidance in Prompt-based Continual Learning**
+
+- Paper: https://arxiv.org/abs/2308.15827
+- Code: None
+
+<a name="VL"></a>
+
+# 视觉和语言(Vision-Language)
+
+**Read-only Prompt Optimization for Vision-Language Few-shot Learning** 
+
+- Paper: https://arxiv.org/abs/2308.14960
+- Code: https://github.com/mlvlab/RPO
 
 <a name="Object-Detection"></a>
 
@@ -539,3 +563,8 @@ Code: https://github.com/songrise/AvatarCraft
 - Homepage: https://zikeyan.github.io/active-INR/index.html
 - Paper: https://arxiv.org/abs/2308.16246
 - Code: https://zikeyan.github.io/active-INR/index.html#
+
+**Reconstructing Groups of People with Hypergraph Relational Reasoning**
+
+- Paper: https://arxiv.org/abs/2308.15844
+- Code: https://github.com/boycehbz/GroupRec
