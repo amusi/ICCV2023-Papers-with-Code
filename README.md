@@ -335,6 +335,11 @@ Code: https://github.com/songrise/AvatarCraft
 - Paper: https://arxiv.org/abs/2308.09247
 - Code: None
 
+**CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition**
+
+- Paper: https://arxiv.org/abs/2303.17778
+- Code: https://github.com/rayguan97/crossloc3d
+
 <a name="3DOD"></a>
 
 # 3D目标检测(3D Object Detection)
